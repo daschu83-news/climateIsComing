@@ -1,32 +1,16 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.38397992087807953
-'Frühling',de,Frühling,#679e2c,#679e2c,3,0.205877582586823
-'Pollen',de,Frühling,#679e2c,#61d01c,3,0.1568222246074935
-'Sommer',de,Sommer,#a89216,#a89216,3,0.156770647501712
-'Schnee',de,Winter,#4287f5,#638ed4,3,0.1383228557499561
-'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1335352270233211
-'Hochwasser',de,Winter,#4287f5,#022f78,3,0.1288435572845903
-'Winter',de,Winter,#4287f5,#315fa8,3,0.1266353495660712
-'Schneeglöckchen',de,Winter,#3288e5,#638ed4,1,0.1255466757208055
-'Hasel',de,Winter,#4287f5,#537ee4,1,0.1241323570884574
-'Spätfrost',de,Frühling,#679e2c,#477515,1,0.124119391007887
-'Ernte',de,Herbst,#9e3215,#d64118,3,0.1235914263709568
-'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1233772010318283
-'Niedrigwasser',de,Sommer,#a89216,#87830f,2,0.1186010917681722
-'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.1163325097740254
-'Laub',de,Herbst,#9e3215,#802d16,2,0.1046197081449588
-'Erle',de,Winter,#4287f5,#537ef4,1,0.1023017843703282
-'Weinlese',de,Herbst,#9e3215,#b55035,1,0.1011586157280653
-'Eicheln',de,Herbst,#9e3215,#f64118,1,0.0970271691152514
-'Apfelernte',de,Sommer,#a89216,#77731f,1,0.0815549317215192
-'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.0814593539590571
-'Aussaat',de,Frühling,#679e2c,#7db344,2,0.080535373612045
-'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0576635189797917
-'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0254329057537185
-'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.0228288182455377
-'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0024317030184516
-'Laubfall',de,Winter,#3288e5,#737ee4,1,0.0005851301211526
-'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.0002811937431711
-'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0002617665351551
-'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.0001060066428891
-'Holunderbeere',de,Herbst,#9e3215,#e63128,1,8.120331883505846e-06
+'Energiewende',de,Energiewende,#a89216,#c4b03b,2,0.7
+'Verkehrwende',de,Verkehrwende,#a89216,#c4b03b,2,0.7
+'Klimawandel',de,Klimawandel,#a89216,#c4b03b,2,0.7
+'Landwirtschaft Klimawandel',de,Landwirtschaft,#a89216,#c4b03b,2,0.7
+'Klimaextreme Klimawandel',de,Klimaextreme,#a89216,#c4b03b,2,0.7
+'Wärmewende',de,Waermewende,#a89216,#c4b03b,2,0.7
+'Urbane Hitzeinsel Klimawandel',de,Urbane_Hitzeinsel,#a89216,#c4b03b,2,0.7
+'Geo Engineering Klimawandel',de,Geo_Engineering,#a89216,#c4b03b,2,0.7
+'Gesundheit Klimawandel',de,Gesundheit,#a89216,#c4b03b,2,0.7
+'Industrie Klimawandel',de,Industrie,#a89216,#c4b03b,2,0.7
+'Wasserversorgung Klimawandel',de,Wasserversorgung,#a89216,#c4b03b,2,0.7
+'Oekologie Klimawandel',de,Oekologie,#a89216,#c4b03b,2,0.7
+'Energiewende Klimawandel',de,Energiewende,#a89216,#c4b03b,2,0.7
+'Tipping Points Klimawandel',de,Tipping_Points,#a89216,#c4b03b,2,0.7
+
