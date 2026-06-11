@@ -26,9 +26,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,2,0.6367690818181818
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.6248624234615384
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.6163212113636364
-'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.5950002249999999
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,1,0.595000165
 'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.595
-'Urbane Hitzeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.595
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.595
+'Urbane Hitzeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.595
 'Verkehrwende',de,Verkehrwende,#8888ff,#8888ff,1,0.595
+'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.56200041625
