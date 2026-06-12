@@ -3,23 +3,23 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.7
 'Oekologie Klimawandel',de,Oekologie,#88ffff,#88ffff,2,0.7
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
-'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
-'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
+'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
+'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'Kernfusion Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
-'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
-'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
+'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
-'Spitzenlasten Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
+'Spitzenlasten Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.6490418540909091
+'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.6440509449999999
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,2,0.6367690818181818
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.6248624234615384
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.6204052204545454
