@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
-'Spitzenlasten Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'Kernfusion Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.5950001349999999
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.595000105
 'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.595000075
+'Spitzenlasten Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.595
 'Oekologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.595
 'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.595
 'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.595
