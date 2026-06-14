@@ -3,10 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
-'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
-'Kernfusion Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
+'Kernfusion Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.6490418540909091
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.6440509449999999
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.6163212113636364
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,2,0.6160590406521739
 'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.6081330781818182
+'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.596500165
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,1,0.595000165
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.595000165
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.5950001349999999
