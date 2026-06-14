@@ -1,12 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,2,0.7
 'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
-'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
-'Spitzenlasten Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
+'Spitzenlasten Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'Kernfusion Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.62995012
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.6248624234615384
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.6204052204545454
+'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.6174365242857143
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.6163212113636364
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,2,0.6160590406521739
 'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.6081330781818182
