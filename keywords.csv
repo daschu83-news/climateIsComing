@@ -14,21 +14,21 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.6122339622727272
 'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.6081330781818182
 'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.596500165
-'Kernfusion Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.59560006
 'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.595000195
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,1,0.595000165
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.595000165
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.5950001349999999
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.595000105
 'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.595000075
+'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.595
 'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.595
 'Urbane Hitzeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.595
 'Oekologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.595
-'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.595
 'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.595
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.5485903299423076
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,2,0.5268004995543477
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.5248218106428572
+'Kernfusion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.5062601109999999
 'Verkehrwende',de,Verkehrwende,#8888ff,#8888ff,1,0.5057499999999999
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4979505788125
 'Spitzenlasten Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4298874999999999
