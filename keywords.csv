@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.6490418540909091
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,3,0.6419509
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.6301355659677419
-'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.62995012
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.6204052204545454
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.6163212113636364
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.6122339622727272
@@ -13,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.595000105
 'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.595000075
 'Urbane Hitzeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.595
-'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.595
 'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.595
+'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.595
 'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.595
 'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.595
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.595
@@ -23,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.5584776018181818
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.5485903299423076
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,1,0.5453716738214286
+'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.5354577369999999
 'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.53005034575
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,2,0.5268004995543477
 'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.5259552705454545
