@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.6490418540909091
-'Wärmewende',de,Waermewende,#ffff00,#ffff00,3,0.6419509
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.6301355659677419
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.6122339622727272
+'Wärmewende',de,Waermewende,#ffff00,#ffff00,3,0.6025674245161291
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.595000165
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.5950001349999999
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.595000105
