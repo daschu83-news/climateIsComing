@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.54130032025
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.5354577369999999
 'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.53005034575
-'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,2,0.5268004995543477
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.5253609129318181
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.5248218106428572
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,3,0.5130833908387097
@@ -26,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4979505788125
 'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4815071044284482
 'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.4561039840545454
+'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.44778076962119556
 'Oekologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.4298874999999999
 'Spitzenlasten Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4298874999999999
 'Verkehrwende',de,Verkehrwende,#8888ff,#8888ff,1,0.4298874999999999
