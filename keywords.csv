@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.7
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.6490418540909091
-'Wärmewende',de,Waermewende,#ffff00,#ffff00,3,0.6025674245161291
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.595000165
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.595000105
 'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.595
@@ -18,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.5259552705454545
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.5253609129318181
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.5248218106428572
+'Wärmewende',de,Waermewende,#ffff00,#ffff00,3,0.5130833908387097
 'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.50702529025
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.50650018975
 'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.50635012375
