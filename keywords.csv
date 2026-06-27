@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.6490418540909091
-'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.595000105
+'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,2,0.60820022425
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.5634512861071428
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.5576863109112903
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.5486587037499999
@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4979505788125
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.4876199638920455
 'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4815071044284482
-'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.45933675904642857
+'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4593367590464285
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.4477807696211955
 'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4326216617124999
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4312752362875
