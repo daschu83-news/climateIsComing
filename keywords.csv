@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.5576863109112903
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.5486587037499999
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.5485903299423076
-'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.54130032025
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.5354577369999999
 'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.53005034575
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.5253609129318181
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4979505788125
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.4876199638920455
 'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4815071044284482
+'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.46190545221249996
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4593367590464285
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.4477807696211955
 'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4326216617124999
