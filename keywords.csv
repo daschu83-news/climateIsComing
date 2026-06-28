@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,2,0.60820022425
-'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.5666862209772727
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.5634512861071428
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.5576863109112903
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.5486587037499999
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.5057499999999999
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.500111767
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4979505788125
+'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4966839328306818
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.4876199638920455
 'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4815071044284482
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4619054522124999
