@@ -15,10 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4566392264499999
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.4477807696211955
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.4310984931841475
-'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4301650277499999
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.4298874999999999
-'Oekologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.4298874999999999
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4298874999999999
+'Oekologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.4298874999999999
 'Spitzenlasten Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4298874999999999
 'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4227815337641809
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,1,0.4104449913359821
@@ -30,5 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kernfusion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3668830411974999
 'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.366648045409375
 'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3660678163374999
+'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3657902885874999
 'Verkehrwende',de,Verkehrwende,#8888ff,#8888ff,1,0.3654043749999999
 'Urbane Hitzeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.3654043749999999
