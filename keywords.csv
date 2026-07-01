@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.5486587037499999
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.5485903299423076
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.5169703256124999
-'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.5150468953409091
 'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.5057499999999999
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.500111767
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4979505788125
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4668929288874999
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4619054522124999
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4566392264499999
+'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4509222642215909
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.4477807696211955
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.4310984931841475
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.4298874999999999
