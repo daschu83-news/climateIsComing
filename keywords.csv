@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.5169703256124999
 'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.5057499999999999
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.500111767
-'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4979505788125
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4966839328306818
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.4876199638920455
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4789343581910714
@@ -17,8 +16,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.4310984931841475
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.4298874999999999
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4298874999999999
-'Oekologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.4298874999999999
 'Spitzenlasten Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4298874999999999
+'Oekologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.4298874999999999
+'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.42490815699062495
 'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4227815337641809
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,1,0.4104449913359821
 'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.3967304205372726
