@@ -3,19 +3,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.5485903299423076
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.500111767
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4966839328306818
-'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.49149123427459673
+'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.4914912342745967
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.4876199638920455
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4789343581910714
-'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4668929288874999
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4619054522124999
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.4574999117706249
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4566392264499999
 'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4509222642215909
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.4477807696211955
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.4310984931841475
-'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.4298874999999999
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.4298874999999999
+'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.4298874999999999
 'Oekologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.4298874999999999
+'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4253591395543749
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4249081569906249
 'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4227815337641809
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,1,0.4104449913359821
