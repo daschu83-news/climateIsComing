@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.5576863109112903
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.5486587037499999
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.5485903299423076
-'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.5057499999999999
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.500111767
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4966839328306818
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.4876199638920455
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4509222642215909
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.4477807696211955
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.4310984931841475
+'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.4298874999999999
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.4298874999999999
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4298874999999999
 'Oekologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.4298874999999999
