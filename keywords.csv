@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.495799304996416
-'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4789343581910714
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4619054522124999
 'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4509222642215909
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4458937487499999
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4253591395543749
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4249081569906249
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,1,0.4104449913359821
+'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4085948494624107
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4084791617682141
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.4069500600050311
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.3878770400438636
@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oekologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.3654043749999999
 'Urbane Hitzeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.3654043749999999
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.3654043749999999
-'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.35031403159728686
+'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.3503140315972868
 'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.3462627715475908
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.3364329901708789
 'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3356127406229953
