@@ -10,8 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,1,0.4104449913359821
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4084791617682141
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.4069500600050311
-'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.3972073268610795
-'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.39275661677563917
+'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.3927566167756391
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.3878770400438636
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3869197701300892
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.3735543016309677
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3627553886212186
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.3604380552248672
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.3503140315972868
+'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.3466456828319176
 'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.3462627715475908
 'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3356127406229953
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3337842654110446
