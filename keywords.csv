@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4458937487499999
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.4398965040351117
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.4310984931841475
-'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.4298874999999999
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.4267689591334072
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4249081569906249
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4203323893806249
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3869197701300892
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.3735543016309677
 'Kernfusion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3668830411974999
+'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.36540437499999995
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.3654043749999999
 'Urbane Hitzeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.3654043749999999
 'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3627553886212186
