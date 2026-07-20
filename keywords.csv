@@ -10,12 +10,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.3503140315972868
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.347807347502982
 'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.3466456828319176
-'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.3462627715475908
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3297818946105758
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3271757626002287
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.3256752989512029
 'Kernfusion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3230030527651936
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.3215910588147957
+'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.3115471930881794
 'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3093921853280358
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.3028959997675354
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,2,0.3019754995023899
@@ -30,5 +30,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Spitzenlasten Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2254179319337499
 'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2253845025620323
 'Verkehrwende',de,Verkehrwende,#8888ff,#8888ff,1,0.2244039617968749
-'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.21155259372259688
+'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2115525937225968
 'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1981496114393374
