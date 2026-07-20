@@ -19,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3093921853280358
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.3028959997675354
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,2,0.3019754995023899
-'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2651582383082734
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2650750321499665
 'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2644109962544686
 'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.2640046609374999
@@ -30,5 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.246238080850114
 'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.225583224883267
 'Spitzenlasten Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2254179319337499
+'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.22538450256203238
 'Verkehrwende',de,Verkehrwende,#8888ff,#8888ff,1,0.2244039617968749
 'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1981496114393374
