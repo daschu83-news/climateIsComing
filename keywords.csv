@@ -1,11 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.387755530572702
-'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.38113950706179517
+'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.3811395070617951
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.3560717863863225
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.3513718040372841
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.3503140315972868
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.347807347502982
-'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.3466456828319176
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.3462075810042764
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3455583489718748
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3297818946105758
@@ -16,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.3115471930881794
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3100489486757264
 'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3093921853280358
+'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.30366815040712997
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.3028959997675354
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,2,0.3019754995023899
 'Kernfusion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2748526248504145
