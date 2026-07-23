@@ -24,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.2640046609374999
 'Urbane Hitzeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.2640046609374999
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2537824237594797
-'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.225583224883267
 'Spitzenlasten Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2254179319337499
 'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2253845025620323
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.2244039617968749
@@ -32,3 +31,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrwende',de,Verkehrwende,#8888ff,#8888ff,1,0.2244039617968749
 'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2115525937225968
 'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1981496114393374
+'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.19189575615077695
