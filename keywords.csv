@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3297818946105758
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3271757626002287
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.3256752989512029
-'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.3215910588147957
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.317854759990247
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3171246866260935
 'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.3115471930881794
@@ -17,7 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.3019460467385105
 'Industrie Klimawandel',de,Industrie,#000000,#000000,1,0.2977674218576938
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2963863203775347
-'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.29442645885363494
+'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.2944264588536349
+'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.28239467408348545
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2650750321499665
 'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2644109962544686
 'Urbane Hitzeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.2640046609374999
