@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.3256752989512029
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.317854759990247
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3171246866260935
-'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.3115471930881794
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3100489486757264
 'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3093921853280358
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.3055979966244914
@@ -18,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2963863203775347
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.2944264588536349
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2823946740834854
+'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2652661491249525
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2650750321499665
 'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2644109962544686
 'Urbane Hitzeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.2640046609374999
@@ -31,4 +31,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1915768271777274
 'Oekologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.1907433675273436
 'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1820699296642072
-'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.16278208642009367
+'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.1627820864200936
