@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.3462075810042764
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3297818946105758
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3271757626002287
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.3256752989512029
@@ -18,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.3019460467385105
 'Industrie Klimawandel',de,Industrie,#000000,#000000,1,0.2977674218576938
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2963863203775347
+'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.29442645885363494
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2650750321499665
 'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2644109962544686
 'Urbane Hitzeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.2640046609374999
