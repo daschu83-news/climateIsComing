@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.2944264588536349
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2823946740834854
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.2799268459917099
-'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2747410962649713
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.271520441164118
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2691955007671813
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2650750321499665
@@ -20,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.259712814802405
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,2,0.2592294295770314
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2537824237594797
+'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.24666740500704376
 'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2345181408471187
 'Kernfusion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2339247611228523
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2267856429182122
@@ -31,4 +31,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1631113927281603
 'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1628403031010682
 'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.1627820864200936
-'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.16213186239824207
+'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.162131862398242
