@@ -13,7 +13,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2691955007671813
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2669671111669378
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2650750321499665
-'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2644109962544686
 'Urbane Hitzeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.2640046609374999
 'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2638834475288305
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.259712814802405
@@ -23,8 +22,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2345181408471187
 'Kernfusion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2339247611228523
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2267856429182122
+'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.22474934681629832
 'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.2244039617968749
-'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.20644471381893625
+'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2064447138189362
 'Spitzenlasten Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1919052721436874
 'Verkehrwende',de,Verkehrwende,#8888ff,#8888ff,1,0.1907433675273436
 'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1820699296642072
