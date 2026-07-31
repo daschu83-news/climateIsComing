@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3297818946105758
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3271757626002287
-'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3171246866260935
 'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.3036681504071299
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.3019460467385105
 'Industrie Klimawandel',de,Industrie,#000000,#000000,1,0.2977674218576938
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2963863203775347
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.2944264588536349
+'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.28989180291789374
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2823946740834854
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.2799268459917099
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.271520441164118
@@ -30,5 +30,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oekologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.162131862398242
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.162131862398242
 'Verkehrwende',de,Verkehrwende,#8888ff,#8888ff,1,0.162131862398242
-'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.14745748614938722
+'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.1474574861493872
 'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1384142576359079
