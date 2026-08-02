@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3297818946105758
 'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.3036681504071299
-'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.3019460467385105
 'Industrie Klimawandel',de,Industrie,#000000,#000000,1,0.2977674218576938
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2963863203775347
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.2944264588536349
@@ -14,6 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2669671111669378
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2650750321499665
 'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2638834475288305
+'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.26161819472773395
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.259712814802405
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,2,0.2592294295770314
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2537824237594797
@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Urbane Hitzeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.2244039617968749
 'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.2244039617968749
 'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2064447138189362
-'Kernfusion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.19928609195442445
+'Kernfusion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1992860919544244
 'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1820699296642072
 'Spitzenlasten Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1634195113221343
 'Oekologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.162131862398242
