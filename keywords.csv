@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.2944264588536349
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2920223054829216
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2898918029178937
-'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2823946740834854
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.2799268459917099
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.271520441164118
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2700034923209045
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.259712814802405
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,2,0.2592294295770314
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2537824237594797
+'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.24905569297096258
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2466674050070437
 'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2345181408471187
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2267856429182122
@@ -24,7 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.2244039617968749
 'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2064447138189362
 'Kernfusion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1992860919544244
-'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.19103694479385355
+'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1910369447938535
 'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1820699296642072
 'Spitzenlasten Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1634195113221343
 'Oekologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.162131862398242
