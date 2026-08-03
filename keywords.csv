@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3297818946105758
-'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.3036681504071299
 'Industrie Klimawandel',de,Industrie,#000000,#000000,1,0.2977674218576938
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2920223054829216
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2898918029178937
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.2799268459917099
+'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.27979340784606044
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2700034923209045
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2691955007671813
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2669671111669378
@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kernfusion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1992860919544244
 'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1820699296642072
 'Spitzenlasten Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1634195113221343
-'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.16238140307477547
+'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1623814030747754
 'Oekologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.162131862398242
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.162131862398242
 'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.1474574861493872
