@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3297818946105758
 'Industrie Klimawandel',de,Industrie,#000000,#000000,1,0.2977674218576938
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2898918029178937
-'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.2799268459917099
 'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2797934078460604
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2700034923209045
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2669671111669378
@@ -18,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2466674050070437
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.2440304299895002
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2383955570806755
+'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,1,0.23793822409295343
 'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2345181408471187
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2267856429182122
 'Urbane Hitzeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.2244039617968749
@@ -31,4 +31,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1384142576359079
 'Verkehrwende',de,Verkehrwende,#8888ff,#8888ff,1,0.1378120830385057
 'Spitzenlasten Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1184756374302419
-'Oekologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.11714027058272984
+'Oekologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.1171402705827298
