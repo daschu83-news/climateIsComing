@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2638834475288305
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2632191246604833
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.2616181947277339
-'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.259712814802405
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,2,0.2592294295770314
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2537824237594797
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.2502624900255896
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2267856429182122
 'Urbane Hitzeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.2244039617968749
 'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.2244039617968749
+'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.22330713758204424
 'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2064447138189362
 'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1820699296642072
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.162131862398242
