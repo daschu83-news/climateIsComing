@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.2440304299895002
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2383955570806755
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.235834379115374
-'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.23466945368049053
+'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2346694536804905
 'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2345181408471187
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2285164952018534
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2267856429182122
@@ -31,4 +31,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.138024192613559
 'Verkehrwende',de,Verkehrwende,#8888ff,#8888ff,1,0.1378120830385057
 'Oekologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.1171402705827298
-'Spitzenlasten Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1008543068157056
+'Spitzenlasten Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.08587617579334976
