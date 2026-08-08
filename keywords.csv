@@ -5,13 +5,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2797934078460604
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2669671111669378
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2650750321499665
-'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2632191246604833
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.2616181947277339
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,2,0.2592294295770314
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2537824237594797
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.2502624900255896
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2466674050070437
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.2440304299895002
+'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.24008639096141082
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2383955570806755
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.235834379115374
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2346694536804905
@@ -29,6 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1384142576359079
 'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.138024192613559
 'Verkehrwende',de,Verkehrwende,#8888ff,#8888ff,1,0.1378120830385057
-'Kernfusion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.12354431198401085
+'Kernfusion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1235443119840108
 'Oekologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.1171402705827298
 'Spitzenlasten Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.0858761757933497
