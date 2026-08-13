@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2813647154189894
 'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2797934078460604
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.2789967485790397
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2650750321499665
@@ -9,11 +8,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2474581374802096
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2466674050070437
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.2440304299895002
+'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.24021011310614096
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2400863909614108
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2383955570806755
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2359644535828061
 'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2345181408471187
-'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.22930344528333899
+'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2293034452833389
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2289660801738714
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.2273414105185738
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2267856429182122
