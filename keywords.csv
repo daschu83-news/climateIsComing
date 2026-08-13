@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2474581374802096
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2466674050070437
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.2440304299895002
-'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.24021011310614096
+'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2402101131061409
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2400863909614108
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2383955570806755
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2359644535828061
@@ -30,5 +30,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrwende',de,Verkehrwende,#8888ff,#8888ff,1,0.1171402705827298
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.1171402705827298
 'Kernfusion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1054627101864091
-'Oekologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.0995692299953203
+'Oekologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.08463384549602225
 'Spitzenlasten Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.0731447644243472
