@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2537824237594797
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.2502624900255896
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2474581374802096
-'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.2440304299895002
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2402101131061409
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2400863909614108
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2384462255092897
@@ -17,7 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.2273414105185738
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2267856429182122
 'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2209280517460957
-'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.21488182889194343
+'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.2170047519196466
+'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2148818288919434
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.1991319671621288
 'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1931985450895799
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.1898437218694051
