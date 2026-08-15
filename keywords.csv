@@ -8,12 +8,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2400863909614108
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2384462255092897
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2383955570806755
+'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.2371006373278845
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2359644535828061
 'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2345181408471187
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2313480392559871
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2293034452833389
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2289660801738714
-'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.2273414105185738
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2267856429182122
 'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2209280517460957
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.2170047519196466
@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.1898437218694051
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.1871170669790395
 'Urbane Hitzeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.162131862398242
-'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.15610957521457614
+'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1561095752145761
 'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.14704829913607
 'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.138024192613559
 'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.1378120830385057
