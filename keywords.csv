@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.2789967485790397
+'Industrie Klimawandel',de,Industrie,#000000,#000000,3,0.2558124370064695
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2384462255092897
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2383955570806755
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.2371006373278845
@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2289660801738714
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2267856429182122
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2249404201955577
-'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.22213890398418132
+'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2221389039841813
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2171236123171991
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.2170047519196466
 'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2148818288919434
