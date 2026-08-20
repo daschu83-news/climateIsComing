@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.2371006373278845
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2359644535828061
-'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2293034452833389
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2289660801738714
+'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.22625806349083807
 'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2231681283865541
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2171236123171991
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.2170047519196466
@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.191199672166224
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.1898437218694051
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.1871170669790395
-'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.18294958455815188
+'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1829495845581518
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.1816697345434884
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1752169732191867
 'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1655688983261429
