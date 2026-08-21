@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.2371006373278845
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2359644535828061
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2289660801738714
-'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.22625806349083807
+'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.226258063490838
 'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2231681283865541
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2171236123171991
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.2170047519196466
@@ -21,10 +21,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1829495845581518
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.1816697345434884
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1752169732191867
-'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1655688983261429
 'Urbane Hitzeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.162131862398242
 'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1561095752145761
 'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.14704829913607
+'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.14208369857722147
 'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1173205637215251
 'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.1171402705827298
 'Verkehrwende',de,Verkehrwende,#8888ff,#8888ff,1,0.1171402705827298
