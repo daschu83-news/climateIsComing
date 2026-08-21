@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.2371006373278845
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2359644535828061
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2289660801738714
-'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.226258063490838
+'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.22366948896721228
 'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2231681283865541
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.2170047519196466
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2131036157661946
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2056923524584981
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2026370035185741
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.1991319671621288
-'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.19760525046961921
+'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1976052504696192
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.1960779979871741
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.191199672166224
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.1898437218694051
