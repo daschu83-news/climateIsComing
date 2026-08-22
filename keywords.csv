@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2214692006221303
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.2170047519196466
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2131036157661946
-'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.212473512901869
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2112395068581781
 'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2098197284544928
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2076299216828962
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1976052504696192
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.1971724281477906
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.1960779979871741
+'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.19373536914840683
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.191199672166224
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.1898437218694051
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.1871170669790395
@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1752169732191867
 'Urbane Hitzeinsel Klimawandel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.162131862398242
 'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1561095752145761
-'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.15580717687442902
+'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.155807176874429
 'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.14704829913607
 'fossile Brennstoffe Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1420836985772214
 'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1173205637215251
