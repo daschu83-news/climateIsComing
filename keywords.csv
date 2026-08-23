@@ -1,11 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.2371006373278845
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2359644535828061
-'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.22404296912857097
+'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2240429691285709
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2214692006221303
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.2170047519196466
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2131036157661946
-'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2112395068581781
 'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2098197284544928
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2076299216828962
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2056923524584981
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.1898437218694051
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.1871170669790395
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.1816697345434884
+'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1801536408294514
 'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1561095752145761
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1496845022363086
 'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.14704829913607
