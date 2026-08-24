@@ -1,459 +1,133 @@
 ,phrase,label,sentiment,subjectivity,language,count
-DWD,DWD,ORG,-0.022716049382716062,0.09629629629629638,de,67.49999999999994
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.056209150326797415,0.1470588235294119,de,50.99999999999995
-Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.2880952380952382,0.04761904761904763,de,20.999999999999996
-Cookies,Cookies,ORG,0.8159509202453983,0.0,de,16.300000000000004
-EU,EU,ORG,0.23619631901840485,0.3374233128834355,de,16.300000000000004
-CDU,CDU,ORG,0.5819209039548022,0.15536723163841804,de,11.800000000000002
-Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.08433734939759036,0.12048192771084336,de,8.3
-https://epaper.welt.de,https://epaper.welt.de,ORG,0.0,0.0,de,7.300000000000001
-Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,0.04109589041095892,0.2054794520547945,de,7.300000000000001
-ADAC,ADAC,ORG,-0.5342465753424658,0.273972602739726,de,7.300000000000001
-VW,VW,ORG,0.28767123287671226,0.0,de,7.300000000000001
-GEO,GEO,ORG,2.5,0.0,de,6.4
-Grüne,Grüne,ORG,0.18181818181818182,0.18181818181818182,de,5.5
-D…,D…,ORG,0.0,0.0,de,4.6
-AfD,AfD,ORG,0.0,0.0,de,4.6
-TTS-Player,TTS-Player,ORG,0.2173913043478261,0.0,de,4.6
-CSU,CSU,ORG,0.358974358974359,0.0,de,3.9
-WMO,WMO,ORG,0.0,0.0,de,3.8
+Cookies,Cookies,ORG,0.7727272727272724,0.0,de,15.400000000000004
+EU,EU,ORG,0.12068965517241376,0.2413793103448275,de,14.500000000000004
+CDU,CDU,ORG,0.34666666666666657,0.08333333333333331,de,10.000000000000002
+https://epaper.welt.de,https://epaper.welt.de,ORG,0.0,0.0,de,6.4
 Rekorde,Rekorde,ORG,-0.1891891891891892,0.0,de,3.6999999999999997
-Volkswagen,Volkswagen,ORG,-0.2702702702702703,0.0,de,3.6999999999999997
-SPD,SPD,ORG,0.7297297297297296,0.09009009009009009,de,3.6999999999999997
-Deutschland,Deutschland,ORG,-0.3783783783783784,0.0,de,3.6999999999999997
 Neptun-Werft,Neptun-Werft,ORG,-0.1891891891891892,0.0,de,3.6999999999999997
 BASIC thinking,BASIC thinking,ORG,0.0,0.2702702702702703,de,3.6999999999999997
-FC Bayern,FC Bayern,ORG,0.44594594594594594,0.40540540540540543,de,3.6999999999999997
-TÜV,TÜV,ORG,0.0,0.09009009009009009,de,3.6999999999999997
-Gewerkschaften,Gewerkschaften,ORG,0.0,0.5405405405405406,de,3.6999999999999997
-lby,lby,ORG,-0.07471264367816093,0.4252873563218391,de,2.9
-ei…,ei…,ORG,0.6071428571428572,0.0,de,2.8
-MV,MV,ORG,0.35714285714285715,0.7142857142857143,de,2.8
 EWE,EWE,ORG,0.0,0.0,de,2.8
-KOMMENTAR,KOMMENTAR,ORG,-0.25,0.35714285714285715,de,2.8
-lrs,lrs,ORG,1.3214285714285716,0.0,de,2.8
 SANY,SANY,ORG,0.0,0.0,de,2.8
-Nachtfrost,Nachtfrost,ORG,0.125,0.0,de,2.8
-OECD,OECD,ORG,-0.3035714285714286,0.0,de,2.8
-AFC Sunderland,AFC Sunderland,ORG,0.5,0.0,de,2.8
-Shutterstock.com,Shutterstock.com,ORG,-0.7142857142857143,0.0,de,2.8
 BASF,BASF,ORG,0.0,0.0,de,2.8
-PFAS,PFAS,ORG,-0.4821428571428572,0.17857142857142858,de,2.8
-SciLogs,SciLogs,ORG,0.35714285714285715,0.35714285714285715,de,2.8
-Nvidia,Nvidia,ORG,0.5,0.0,de,2.8
-F.A.Z.,F.A.Z.,ORG,0.0,0.0,de,2.8
-Klimakonferenz,Klimakonferenz,ORG,0.0,0.0,de,2.8
-RLP,RLP,ORG,0.0,0.0,de,2.8
-Fahrzeug-Architektur,Fahrzeug-Architektur,ORG,0.0,0.0,de,2.8
 picture alliance,picture alliance,ORG,0.0,0.35714285714285715,de,2.8
-Bundestag,Bundestag,ORG,0.3035714285714286,0.0,de,2.8
-Grünen,Grünen,ORG,0.25,0.0,de,2.8
-UNHCR,UNHCR,ORG,0.0,0.0,de,2.8
-Die Grünen,Die Grünen,ORG,0.10714285714285716,0.0,de,2.8
+SciLogs,SciLogs,ORG,0.35714285714285715,0.35714285714285715,de,2.8
+TTS-Player,TTS-Player,ORG,0.35714285714285715,0.0,de,2.8
+WMO,WMO,ORG,0.0,0.0,de,2.8
+OECD,OECD,ORG,-0.3035714285714286,0.0,de,2.8
+AfD,AfD,ORG,0.0,0.0,de,2.8
+Gewerkschaften,Gewerkschaften,ORG,0.0,0.35714285714285715,de,2.8
 Stadtwerke Gießen,Stadtwerke Gießen,ORG,1.0714285714285714,0.0,de,2.8
-E…,E…,ORG,0.0,0.0,de,2.8
-GTC Washington,GTC Washington,ORG,0.5,0.0,de,2.8
-BRIGITTE,BRIGITTE,ORG,0.0,0.0,de,2.8
-BVB,BVB,ORG,0.10714285714285716,0.0,de,2.8
-ntv.de,ntv.de,ORG,0.0,0.0,de,2.300000000000001
-Landwir…,Landwir…,ORG,0.0,0.0,de,2.0
-dpo,dpo,ORG,0.1315789473684211,0.17543859649122806,de,1.9
-Bayerischen Roten Kreuzes,Bayerischen Roten Kreuzes,ORG,0.5263157894736842,0.0,de,1.9
-Herbst Arbeit,Herbst Arbeit,ORG,0.0,0.0,de,1.9
-Apple,Apple,ORG,0.0,0.0,de,1.9
-Deutsche Bundesstiftung Umwelt,Deutsche Bundesstiftung Umwelt,ORG,-0.3684210526315789,0.0,de,1.9
-Austrian World Summit,Austrian World Summit,ORG,0.3684210526315789,0.0,de,1.9
-UNICEF,UNICEF,ORG,-0.8157894736842105,0.0,de,1.9
-dpa,dpa,ORG,0.0,0.0,de,1.9
-BRIGITTE-Angebot,BRIGITTE-Angebot,ORG,1.5789473684210527,0.0,de,1.9
-DHL,DHL,ORG,0.44736842105263164,0.0,de,1.9
-Schützen,Schützen,ORG,0.3684210526315789,0.0,de,1.9
-Woods Hole Oceanographic Institution,Woods Hole Oceanographic Institution,ORG,-0.3684210526315789,0.0,de,1.9
+DWD,DWD,ORG,-0.35714285714285715,0.0,de,2.8
+CSU,CSU,ORG,0.25,0.0,de,2.8
+PFAS,PFAS,ORG,-0.4821428571428572,0.17857142857142858,de,2.8
 künf…,künf…,ORG,0.0,0.0,de,1.9
+Grüne,Grüne,ORG,0.0,0.0,de,1.9
+DHL,DHL,ORG,0.44736842105263164,0.0,de,1.9
+Grünen,Grünen,ORG,0.3684210526315789,0.0,de,1.9
+dpa,dpa,ORG,0.0,0.0,de,1.9
+F.A.Z.,F.A.Z.,ORG,0.0,0.0,de,1.9
+CSD,CSD,ORG,-0.5263157894736842,0.2631578947368421,de,1.9
+gekappte Heizungsförderung,gekappte Heizungsförderung,ORG,0.0,0.0,de,1.9
+UNICEF,UNICEF,ORG,-0.8157894736842105,0.0,de,1.9
+Austrian World Summit,Austrian World Summit,ORG,0.3684210526315789,0.0,de,1.9
 NSF,NSF,ORG,-0.3684210526315789,0.0,de,1.9
+Deutsche Bundesstiftung Umwelt,Deutsche Bundesstiftung Umwelt,ORG,-0.3684210526315789,0.0,de,1.9
+RKI,RKI,ORG,0.0,0.0,de,1.9
+Ltd,Ltd,ORG,0.0,0.0,de,1.9
+SANY Group,SANY Group,ORG,0.0,0.0,de,1.9
+Europäische Gewerkschaftsbund,Europäische Gewerkschaftsbund,ORG,0.0,0.0,de,1.9
+Fu…,Fu…,ORG,0.0,0.0,de,1.9
+Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.5263157894736842,0.0,de,1.9
+Bundestag,Bundestag,ORG,-0.07894736842105264,0.0,de,1.9
+Zentrums f…,Zentrums f…,ORG,0.0,0.0,de,1.9
+Woods Hole Oceanographic Institution,Woods Hole Oceanographic Institution,ORG,-0.3684210526315789,0.0,de,1.9
+Nachtfrost,Nachtfrost,ORG,0.0,0.0,de,1.9
 OOI,OOI,ORG,-0.3684210526315789,0.0,de,1.9
-UN-Flüchtlingshilfswerk,UN-Flüchtlingshilfswerk,ORG,-0.18421052631578946,0.0,de,1.9
-S…,S…,ORG,-0.3684210526315789,0.0,de,1.9
-Auto,Auto,ORG,0.0,0.0,de,1.9
-Merz-Regierung!,Merz-Regierung!,ORG,0.0,0.0,de,1.9
-Ukrainische Energieministerin,Ukrainische Energieministerin,ORG,0.0,0.0,de,1.9
-"Ukrainer
-","Ukrainer
-",ORG,-0.3684210526315789,0.2631578947368421,de,1.9
-Wintertests,Wintertests,ORG,0.0,0.0,de,1.9
-sc…,sc…,ORG,0.0,0.0,de,1.9
-Joint Venture,Joint Venture,ORG,0.0,0.0,de,1.9
-Die Imkerinnen und Imker,Die Imkerinnen und Imker,ORG,1.0526315789473684,0.0,de,1.9
-Landesamt für Umwelt: Jahr,Landesamt für Umwelt: Jahr,ORG,0.0,0.0,de,1.9
-Fahrrad-Kontrollen,Fahrrad-Kontrollen,ORG,0.0,0.0,de,1.9
-DWI,DWI,ORG,0.0,0.0,de,1.9
-HLNUG,HLNUG,ORG,-0.7368421052631579,0.0,de,1.9
-Salzburg,Salzburg,ORG,0.0,0.0,de,1.9
-Sprintmodus!,Sprintmodus!,ORG,0.0,0.0,de,1.9
-esoc/ES…,esoc/ES…,ORG,0.0,0.0,de,1.9
-d…,d…,ORG,-0.5263157894736842,0.0,de,1.9
+Reformpläne der Bundeswirtschaftsministerin,Reformpläne der Bundeswirtschaftsministerin,ORG,0.0,0.0,de,1.9
+SPD,SPD,ORG,-0.8947368421052632,0.0,de,1.9
+Bund,Bund,ORG,-0.18421052631578946,0.2631578947368421,de,1.9
 SZ,SZ,ORG,0.0,0.0,de,1.9
 Reiches Energie-Reformpläne,Reiches Energie-Reformpläne,ORG,0.7368421052631579,0.0,de,1.9
-Fußball-Bundesliga,Fußball-Bundesliga,ORG,0.0,0.0,de,1.9
-Reformpläne der Bundeswirtschaftsministerin,Reformpläne der Bundeswirtschaftsministerin,ORG,0.0,0.0,de,1.9
-EWP,EWP,ORG,0.3684210526315789,0.0,de,1.9
-Bund,Bund,ORG,-0.18421052631578946,0.2631578947368421,de,1.9
-NDR,NDR,ORG,0.0,0.0,de,1.9
-Deutschen Alpenvereins,Deutschen Alpenvereins,ORG,-0.5263157894736842,0.0,de,1.9
-Straßenverkehrsbehörde Hessen Mobil,Straßenverkehrsbehörde Hessen Mobil,ORG,0.0,0.0,de,1.9
-DAV,DAV,ORG,-0.5263157894736842,0.0,de,1.9
-Internationalen Komitees des Roten Kreuzes,Internationalen Komitees des Roten Kreuzes,ORG,1.0526315789473684,0.0,de,1.9
-No Names,No Names,ORG,0.0,0.0,de,1.9
-deutschen Biathletinnen,deutschen Biathletinnen,ORG,0.0,0.0,de,1.9
-Kälteste Herbst-Temperatur bundesweit,Kälteste Herbst-Temperatur bundesweit,ORG,0.0,0.0,de,1.9
-Bundesagentur für Arbeit,Bundesagentur für Arbeit,ORG,-1.0526315789473684,0.0,de,1.9
-AUVA,AUVA,ORG,0.0,0.0,de,1.9
-AEMET,AEMET,ORG,0.0,0.0,de,1.9
-lno,lno,ORG,-0.5263157894736842,0.0,de,1.9
-RKI,RKI,ORG,0.0,0.0,de,1.9
-Bayer,Bayer,ORG,0.0,0.0,de,1.9
-DW…,DW…,ORG,0.3684210526315789,0.0,de,1.9
-Europäische Gewerkschaftsbund,Europäische Gewerkschaftsbund,ORG,0.0,0.0,de,1.9
 BUND,BUND,ORG,-0.3684210526315789,0.0,de,1.9
-TÜV Thüringen,TÜV Thüringen,ORG,0.0,0.0,de,1.9
-Ltd,Ltd,ORG,0.0,0.0,de,1.9
-Zentrums f…,Zentrums f…,ORG,0.0,0.0,de,1.9
-gekappte Heizungsförderung,gekappte Heizungsförderung,ORG,0.0,0.0,de,1.9
-Fu…,Fu…,ORG,0.0,0.0,de,1.9
-The Offspring,The Offspring,ORG,0.0,0.0,de,1.9
-CSD,CSD,ORG,-0.5263157894736842,0.2631578947368421,de,1.9
-SWR,SWR,ORG,0.7368421052631579,0.0,de,1.9
-lhe,lhe,ORG,0.24561403508771937,0.17543859649122806,de,1.9
-G…,G…,ORG,0.0,0.0,de,1.9
-"Link
-","Link
-",ORG,-0.3157894736842105,0.0,de,1.9
-SANY Group,SANY Group,ORG,0.0,0.0,de,1.9
-Bundeswehr,Bundeswehr,ORG,0.0,0.0,de,1.4000000000000004
-Essen,Essen,ORG,0.0,0.0,de,1.1
-lnw,lnw,ORG,0.0,0.0,de,1.1
-UN-Angaben,UN-Angaben,ORG,-0.9848484848484848,0.0,de,1.1
-Wet…,Wet…,ORG,0.0,0.0,de,1.1
-Deutsche Wetterdiens…,Deutsche Wetterdiens…,ORG,0.0,0.0,de,1.1
-BBK,BBK,ORG,-1.2727272727272725,0.0,de,1.1
-Versicherer Allianz Trade,Versicherer Allianz Trade,ORG,0.0,0.0,de,1.1
-gle…,gle…,ORG,0.3181818181818181,0.45454545454545453,de,1.1
-russische Streitkräfte,russische Streitkräfte,ORG,0.0,0.9090909090909091,de,1.1
-Bundesamt für Bevölkerungsschutz und Katastrophenhilfe,Bundesamt für Bevölkerungsschutz und Katastrophenhilfe,ORG,-1.2727272727272725,0.0,de,1.1
-Sparkassen-Eisdom,Sparkassen-Eisdom,ORG,0.7,0.0,de,1.0
-stirb!,stirb!,ORG,0.0,0.0,de,1.0
-Reg…,Reg…,ORG,-0.85,0.0,de,1.0
-TikTok &amp,TikTok &amp,ORG,0.0,0.0,de,1.0
-Maniac Productions,Maniac Productions,ORG,-1.0,0.0,de,1.0
-stürmisch-nasse Wetter,stürmisch-nasse Wetter,ORG,0.0,0.0,de,1.0
-Eintracht Frankfurt,Eintracht Frankfurt,ORG,0.0,0.0,de,1.0
-… Apple,… Apple,ORG,0.0,0.0,de,1.0
-Nordsee …,Nordsee …,ORG,0.0,0.0,de,1.0
-Taiwan …,Taiwan …,ORG,-0.7,0.0,de,1.0
-PAGASA,PAGASA,ORG,0.0,0.0,de,1.0
-Instagram11.11.2025,Instagram11.11.2025,ORG,0.0,0.0,de,1.0
-iPhone Air,iPhone Air,ORG,0.0,0.0,de,1.0
-TikTok & Co,TikTok & Co,ORG,-0.35,0.0,de,1.0
-Live Arts,Live Arts,ORG,0.0,0.0,de,1.0
-Angels Production,Angels Production,ORG,0.0,0.0,de,1.0
-"Furtwängler-""Tatort","Furtwängler-""Tatort",ORG,-0.7,0.0,de,1.0
-Jordan Doucet,Jordan Doucet,ORG,0.0,0.0,de,1.0
-Rollenbildern,Rollenbildern,ORG,0.7,0.0,de,1.0
-Windböen …,Windböen …,ORG,0.0,0.0,de,1.0
-Deutscher Luftverkehr,Deutscher Luftverkehr,ORG,-0.7,0.0,de,1.0
-Streuwa…,Streuwa…,ORG,0.0,0.0,de,1.0
-Luftverkehr,Luftverkehr,ORG,-0.7,0.0,de,1.0
-Land,Land,ORG,0.0,0.0,de,1.0
-Biogasanlag…,Biogasanlag…,ORG,0.0,0.0,de,1.0
-Ajillo-Öl,Ajillo-Öl,ORG,0.0,0.0,de,1.0
-Mo…,Mo…,ORG,0.0,0.0,de,1.0
-Forstwirt-Azubis,Forstwirt-Azubis,ORG,-0.7,0.0,de,1.0
-Startup Teens,Startup Teens,ORG,0.0,0.0,de,1.0
-diskuti…,diskuti…,ORG,0.0,0.0,de,1.0
-kündi…,kündi…,ORG,0.0,0.0,de,1.0
-Associated Press,Associated Press,ORG,0.0,0.0,de,1.0
-Energieversorger,Energieversorger,ORG,0.0,0.0,de,1.0
-Spooky Season,Spooky Season,ORG,1.0,0.0,de,1.0
-Elbenwald,Elbenwald,ORG,0.85,0.0,de,1.0
-Weinbranche…,Weinbranche…,ORG,-0.5,0.0,de,1.0
-Energieversorger Kepco,Energieversorger Kepco,ORG,0.0,0.0,de,1.0
-fo…,fo…,ORG,0.0,0.0,de,1.0
-wechs…,wechs…,ORG,0.0,0.0,de,1.0
-Herausforde…,Herausforde…,ORG,0.15000000000000002,0.0,de,1.0
-Ei…,Ei…,ORG,0.0,0.0,de,1.0
-Mittelklasse-Autos,Mittelklasse-Autos,ORG,0.0,0.0,de,1.0
-Ex-Ministerpräsidentin…,Ex-Ministerpräsidentin…,ORG,0.0,0.0,de,1.0
-Landesverband Stottern & Kopiere,Landesverband Stottern & Kopiere,ORG,-0.7,0.0,de,1.0
-FC Bayern München,FC Bayern München,ORG,0.0,0.0,de,1.0
-wei…,wei…,ORG,0.0,0.0,de,1.0
-FC Red Bull Salzburg,FC Red Bull Salzburg,ORG,0.0,0.0,de,1.0
-deuts…,deuts…,ORG,0.0,0.0,de,1.0
-Meteorologe…,Meteorologe…,ORG,0.0,0.0,de,1.0
-Höchst…,Höchst…,ORG,0.0,0.0,de,1.0
-Berlin,Berlin,ORG,0.0,0.0,de,1.0
-Fisch ahoi!,Fisch ahoi!,ORG,0.0,0.0,de,1.0
-Hamburger Stadtreinigung,Hamburger Stadtreinigung,ORG,0.7,0.0,de,1.0
-Cavalry,Cavalry,ORG,0.0,0.0,de,1.0
-Taifuns Fung-wong,Taifuns Fung-wong,ORG,-0.7,0.0,de,1.0
-f…,f…,ORG,0.0,0.0,de,1.0
-Rote Be…,Rote Be…,ORG,0.0,0.0,de,1.0
-mögli…,mögli…,ORG,0.0,0.0,de,1.0
-Wintersportsaison …,Wintersportsaison …,ORG,0.7,0.0,de,1.0
-Son…,Son…,ORG,-0.7,0.0,de,1.0
-Oktob…,Oktob…,ORG,0.0,0.0,de,1.0
-Burgenländischem Obstbauverband,Burgenländischem Obstbauverband,ORG,-0.7,0.0,de,1.0
-beach…,beach…,ORG,0.0,0.0,de,1.0
-Sturmt…,Sturmt…,ORG,0.0,0.0,de,1.0
-AP,AP,ORG,0.0,0.0,de,1.0
-Berlin/Potsdam,Berlin/Potsdam,ORG,-1.0,0.0,de,1.0
-nationalen philippinischen Wetterdienst,nationalen philippinischen Wetterdienst,ORG,0.0,0.0,de,1.0
-Mi…,Mi…,ORG,0.7,0.0,de,1.0
-Deutschen Bahn,Deutschen Bahn,ORG,0.0,0.0,de,1.0
-EU-Beamten,EU-Beamten,ORG,0.0,0.0,de,1.0
-DFL,DFL,ORG,0.0,0.0,de,1.0
-Deepstate sc,Deepstate sc,ORG,0.0,0.0,de,1.0
-Schwarz Group,Schwarz Group,ORG,0.7,0.0,de,1.0
-EU-Vertretern,EU-Vertretern,ORG,0.0,0.0,de,1.0
-Russland +++,Russland +++,ORG,0.0,0.0,de,1.0
-deutsche Meister mittei…,deutsche Meister mittei…,ORG,0.0,0.0,de,1.0
-Dyn,Dyn,ORG,0.7,0.0,de,1.0
-SkyNews,SkyNews,ORG,0.0,0.0,de,1.0
-Ministerpräs…,Ministerpräs…,ORG,0.0,0.0,de,1.0
-Nato,Nato,ORG,0.0,0.0,de,1.0
-Rote Kreuz rech…,Rote Kreuz rech…,ORG,0.0,0.0,de,1.0
-Tages +++,Tages +++,ORG,0.0,0.0,de,1.0
-Cherson +++,Cherson +++,ORG,0.0,0.0,de,1.0
-Weltorganisation für Meteorologie,Weltorganisation für Meteorologie,ORG,0.0,0.0,de,1.0
-russische Armee,russische Armee,ORG,-1.4,0.0,de,1.0
-russischen Streitkräfte,russischen Streitkräfte,ORG,0.0,0.0,de,1.0
-ukrainische Luftwaffe,ukrainische Luftwaffe,ORG,0.7,0.0,de,1.0
-Schwarz Gruppe,Schwarz Gruppe,ORG,0.0,0.0,de,1.0
-Lidl,Lidl,ORG,0.0,0.0,de,1.0
-bayerische Innenministerium,bayerische Innenministerium,ORG,0.0,0.0,de,1.0
-ICE-Zugführer,ICE-Zugführer,ORG,0.15000000000000002,0.0,de,1.0
-se…,se…,ORG,0.10000000000000002,0.0,de,1.0
-MuseKIT,MuseKIT,ORG,0.0,0.0,de,1.0
-Bergwacht,Bergwacht,ORG,0.0,0.0,de,1.0
-Sony,Sony,ORG,0.0,0.0,de,1.0
-Rathaus-Chef,Rathaus-Chef,ORG,0.0,0.0,de,1.0
-+++,+++,ORG,0.0,0.0,de,1.0
-HPC-Roadmap,HPC-Roadmap,ORG,0.0,0.0,de,1.0
-BILD-Reporter,BILD-Reporter,ORG,0.0,0.0,de,1.0
-DLRG,DLRG,ORG,1.0,0.0,de,1.0
-Moskau +++,Moskau +++,ORG,0.7,0.0,de,1.0
-Deutschen Lebensrettungs-Gesellschaft,Deutschen Lebensrettungs-Gesellschaft,ORG,1.0,0.0,de,1.0
-HUR,HUR,ORG,0.7,0.0,de,1.0
-BRK,BRK,ORG,1.0,0.0,de,1.0
-Angriffskri…,Angriffskri…,ORG,0.0,0.0,de,1.0
-Autoba…,Autoba…,ORG,0.0,0.0,de,1.0
-Ministerium für Infrastruktur und Digitales,Ministerium für Infrastruktur und Digitales,ORG,0.0,0.0,de,1.0
-grüne,grüne,ORG,0.0,0.0,de,1.0
-Sunderland,Sunderland,ORG,0.0,0.0,de,1.0
-Heimatschutz…,Heimatschutz…,ORG,0.7,0.0,de,1.0
-di…,di…,ORG,-0.7,0.0,de,1.0
-Porsche,Porsche,ORG,0.0,0.0,de,1.0
-KI-System,KI-System,ORG,0.0,0.0,de,1.0
-Oh Schreck,Oh Schreck,ORG,0.0,0.0,de,1.0
-Deutschen Wet…,Deutschen Wet…,ORG,0.0,0.0,de,1.0
-t3n.de Umweltkatastrophen,t3n.de Umweltkatastrophen,ORG,0.0,0.0,de,1.0
-… Kommissare,… Kommissare,ORG,-1.0,0.0,de,1.0
-Zu…,Zu…,ORG,1.0,0.0,de,1.0
-Gehö…,Gehö…,ORG,0.0,0.0,de,1.0
-Russland,Russland,ORG,1.0,0.0,de,1.0
-Lan…,Lan…,ORG,0.0,0.0,de,1.0
-H…,H…,ORG,0.0,0.0,de,1.0
-Institut für transakustische Forschung und Mitb…,Institut für transakustische Forschung und Mitb…,ORG,0.0,0.0,de,1.0
-Deutsche Wetterdienst…,Deutsche Wetterdienst…,ORG,0.0,0.0,de,1.0
-He…,He…,ORG,0.7,0.0,de,1.0
-Adi Kälin05.11.2025,Adi Kälin05.11.2025,ORG,0.0,0.0,de,1.0
-Unterhaus,Unterhaus,ORG,0.0,0.0,de,1.0
-Liveticker Hessen & Frankfurt,Liveticker Hessen & Frankfurt,ORG,-1.0,0.0,de,1.0
-Geländegewi…,Geländegewi…,ORG,0.0,0.0,de,1.0
-München,München,ORG,0.7,0.0,de,1.0
-BER,BER,ORG,0.0,0.0,de,1.0
-Schnee +++ Einbrecher,Schnee +++ Einbrecher,ORG,0.0,0.0,de,1.0
-Katar,Katar,ORG,2.0,0.0,de,1.0
-PS Vita,PS Vita,ORG,0.0,0.0,de,1.0
-Bayerischer Landtag,Bayerischer Landtag,ORG,0.0,0.0,de,1.0
-Wiesbaden +++ Hessische Ärzte,Wiesbaden +++ Hessische Ärzte,ORG,0.425,0.0,de,1.0
-Kinder +++ Katholische,Kinder +++ Katholische,ORG,0.425,0.0,de,1.0
-Butzbach +++ Sonne,Butzbach +++ Sonne,ORG,0.425,0.0,de,1.0
-Hessen Wiesbaden,Hessen Wiesbaden,ORG,-0.7,0.0,de,1.0
-trü… Bad König,trü… Bad König,ORG,0.425,0.0,de,1.0
-Smart Home-Setup,Smart Home-Setup,ORG,1.4,0.0,de,1.0
-Frankfurt-Marathon +++ Liveblog,Frankfurt-Marathon +++ Liveblog,ORG,-0.7,0.0,de,1.0
-Dreamers Destination,Dreamers Destination,ORG,0.7,0.0,de,1.0
-Fi…,Fi…,ORG,0.7,0.0,de,1.0
-"Krügerrand: Goldener ""Bayern Thaler","Krügerrand: Goldener ""Bayern Thaler",ORG,0.0,0.0,de,1.0
-Bonner Polizei,Bonner Polizei,ORG,-0.43333333333333335,0.0,de,1.0
-Universalmuseums…,Universalmuseums…,ORG,0.0,0.0,de,1.0
-Landesverteidigu…,Landesverteidigu…,ORG,0.0,0.0,de,1.0
-AMA-Transparenzdatenbank,AMA-Transparenzdatenbank,ORG,0.0,0.0,de,1.0
-EU-Fördergeldern,EU-Fördergeldern,ORG,0.0,0.0,de,1.0
-MÜNCHEN,MÜNCHEN,ORG,0.0,0.0,de,1.0
-Rheinland-Pfalz  +++  ,Rheinland-Pfalz  +++  ,ORG,0.0,0.0,de,1.0
-Live…,Live…,ORG,0.0,0.0,de,1.0
-Verb…,Verb…,ORG,0.0,0.0,de,1.0
-ZDF-Meteorologe Özden Terli,ZDF-Meteorologe Özden Terli,ORG,0.0,0.0,de,1.0
-Klimakrise,Klimakrise,ORG,0.0,0.0,de,1.0
-TU Wien,TU Wien,ORG,0.0,0.0,de,1.0
-Spitzenwert…,Spitzenwert…,ORG,0.0,0.0,de,1.0
-LumenHaus,LumenHaus,ORG,0.0,0.0,de,1.0
-Deutsche Allianz Klimawandel und Gesundheit,Deutsche Allianz Klimawandel und Gesundheit,ORG,-0.7,0.0,de,1.0
-MUNICH,MUNICH,ORG,0.0,0.0,de,1.0
+NDR,NDR,ORG,0.0,0.0,de,1.9
+AUVA,AUVA,ORG,0.0,0.0,de,1.9
+EWP,EWP,ORG,0.3684210526315789,0.0,de,1.9
+Shutterstock.com,Shutterstock.com,ORG,-0.5263157894736842,0.0,de,1.9
+Stadtwerke-Tochter EWP,Stadtwerke-Tochter EWP,ORG,0.0,0.0,de,1.0
+Europäischen Investitionsbank,Europäischen Investitionsbank,ORG,0.7,0.0,de,1.0
+Partei Alternative,Partei Alternative,ORG,0.0,0.0,de,1.0
+DW,DW,ORG,0.0,0.0,de,1.0
+CHROMORANGE,CHROMORANGE,ORG,0.0,0.0,de,1.0
+Energieversorgers EnBW,Energieversorgers EnBW,ORG,0.0,0.0,de,1.0
+EnBW,EnBW,ORG,0.7,0.0,de,1.0
+Boku Wien,Boku Wien,ORG,0.0,0.0,de,1.0
+Münchner Stadtwerke,Münchner Stadtwerke,ORG,0.7,0.0,de,1.0
+Stadtwerke-Tochter Energie und Wasser Potsdam,Stadtwerke-Tochter Energie und Wasser Potsdam,ORG,0.0,0.0,de,1.0
+sc…,sc…,ORG,0.0,0.0,de,1.0
+Bienenpopulation,Bienenpopulation,ORG,0.0,0.0,de,1.0
+Deutschla…,Deutschla…,ORG,0.0,0.0,de,1.0
+Deutschland,Deutschland,ORG,0.0,0.0,de,1.0
+Alternative für Deutschland,Alternative für Deutschland,ORG,0.0,0.0,de,1.0
+Schweizer AKWs,Schweizer AKWs,ORG,0.0,0.0,de,1.0
 Universität Stanford,Universität Stanford,ORG,0.0,0.0,de,1.0
 Sa…,Sa…,ORG,-1.0,0.0,de,1.0
+Bayer,Bayer,ORG,0.0,0.0,de,1.0
+klima­b…,klima­b…,ORG,1.0,0.0,de,1.0
 Freien Wählern,Freien Wählern,ORG,0.7,0.0,de,1.0
 Offshore-Branche,Offshore-Branche,ORG,0.0,0.0,de,1.0
-Schweizer AKWs,Schweizer AKWs,ORG,0.0,0.0,de,1.0
+SPSG,SPSG,ORG,1.0,0.0,de,1.0
+AMOC,AMOC,ORG,0.7,0.0,de,1.0
 Infratest d…,Infratest d…,ORG,0.0,0.0,de,1.0
+Stiftung Preußische Schlösser und Gärten,Stiftung Preußische Schlösser und Gärten,ORG,1.0,0.0,de,1.0
+Atla…,Atla…,ORG,0.0,0.0,de,1.0
 ARD-Deutschlandtrend,ARD-Deutschlandtrend,ORG,0.0,0.0,de,1.0
 Berliner Bürokratie-Irrsinn,Berliner Bürokratie-Irrsinn,ORG,0.0,0.0,de,1.0
-Alternative für Deutschland,Alternative für Deutschland,ORG,0.0,0.0,de,1.0
-wic…,wic…,ORG,1.0,0.0,de,1.0
-Hitzewe…,Hitzewe…,ORG,0.0,0.0,de,1.0
-Deutsche…,Deutsche…,ORG,0.0,0.0,de,1.0
-Uhr/ARD,Uhr/ARD,ORG,0.0,0.0,de,1.0
-Sipa USA,Sipa USA,ORG,0.0,0.0,de,1.0
-China Ländern …,China Ländern …,ORG,0.0,0.0,de,1.0
-UNICEF-Studie,UNICEF-Studie,ORG,0.0,0.0,de,1.0
-Hamburger Energienetzen,Hamburger Energienetzen,ORG,0.0,0.0,de,1.0
-Motor für Wirtschaft,Motor für Wirtschaft,ORG,0.7,0.0,de,1.0
-s…,s…,ORG,0.0,0.0,de,1.0
-Stiftu…,Stiftu…,ORG,0.0,0.0,de,1.0
-Hitze,Hitze,ORG,0.0,0.0,de,1.0
-Leverkusen-Star,Leverkusen-Star,ORG,0.0,0.0,de,1.0
-Australien am Freitag,Australien am Freitag,ORG,0.0,0.0,de,1.0
-Magenta TV,Magenta TV,ORG,0.0,0.0,de,1.0
-Budget Thuis,Budget Thuis,ORG,0.0,0.0,de,1.0
-Seatt…,Seatt…,ORG,0.0,0.0,de,1.0
-Schweizer Parlament,Schweizer Parlament,ORG,0.0,0.0,de,1.0
-Schweizer Parlaments,Schweizer Parlaments,ORG,0.7,0.0,de,1.0
-Nationalrat,Nationalrat,ORG,0.7,0.0,de,1.0
-Rechenzentrum Green Rocks,Rechenzentrum Green Rocks,ORG,0.0,0.0,de,1.0
-Ankara-Programm für die deutsche Wirt…,Ankara-Programm für die deutsche Wirt…,ORG,0.0,0.0,de,1.0
-Somme…,Somme…,ORG,0.0,0.0,de,1.0
-Northvolt,Northvolt,ORG,0.0,0.0,de,1.0
-Universität Tokio,Universität Tokio,ORG,0.0,0.0,de,1.0
-Humboldt-Universität,Humboldt-Universität,ORG,0.0,0.0,de,1.0
-Partei Alternative,Partei Alternative,ORG,0.0,0.0,de,1.0
-Deutschla…,Deutschla…,ORG,0.0,0.0,de,1.0
-Bienenpopulation,Bienenpopulation,ORG,0.0,0.0,de,1.0
+Schu…,Schu…,ORG,0.0,0.0,de,1.0
+geschätz…,geschätz…,ORG,0.0,0.0,de,1.0
+Stadtwerke Osnabrück,Stadtwerke Osnabrück,ORG,0.0,0.0,de,1.0
+Linz,Linz,ORG,0.0,0.0,de,1.0
+Verbands…,Verbands…,ORG,-1.0,0.0,de,1.0
+Deutschen Inst…,Deutschen Inst…,ORG,0.0,0.0,de,1.0
 kl…,kl…,ORG,0.0,0.0,de,1.0
+riecht.2,riecht.2,ORG,1.0,0.0,de,1.0
+Bundeskabinett,Bundeskabinett,ORG,-0.15000000000000002,0.0,de,1.0
+Bund für Umwelt und Naturschutz,Bund für Umwelt und Naturschutz,ORG,0.0,0.0,de,1.0
+Bundesverband Solarwirtschaft,Bundesverband Solarwirtschaft,ORG,0.0,0.0,de,1.0
+Zentrum für Synthetische Mikrobiologie,Zentrum für Synthetische Mikrobiologie,ORG,0.0,0.0,de,1.0
 Chef…,Chef…,ORG,0.0,0.0,de,1.0
 EEG,EEG,ORG,0.7,0.0,de,1.0
 photothek.de,photothek.de,ORG,0.0,0.0,de,1.0
+DIHK s…,DIHK s…,ORG,0.15000000000000002,0.0,de,1.0
 Austrocknun…,Austrocknun…,ORG,0.0,0.0,de,1.0
 Deutschen Industrie- und Handelskammer,Deutschen Industrie- und Handelskammer,ORG,0.0,0.0,de,1.0
 DIHK…,DIHK…,ORG,0.0,0.0,de,1.0
 China,China,ORG,0.0,0.0,de,1.0
-DIHK s…,DIHK s…,ORG,0.15000000000000002,0.0,de,1.0
-Bund für Umwelt und Naturschutz,Bund für Umwelt und Naturschutz,ORG,0.0,0.0,de,1.0
-Bundeskabinett,Bundeskabinett,ORG,-0.15000000000000002,0.0,de,1.0
-Deutschen Inst…,Deutschen Inst…,ORG,0.0,0.0,de,1.0
-Münchner Stadtwerke,Münchner Stadtwerke,ORG,0.7,0.0,de,1.0
-Bund für die EEG-Förderung,Bund für die EEG-Förderung,ORG,0.0,0.0,de,1.0
-Kohleland Polen,Kohleland Polen,ORG,0.0,0.0,de,1.0
-Benziner,Benziner,ORG,1.0,0.0,de,1.0
-Schu…,Schu…,ORG,0.0,0.0,de,1.0
-DW,DW,ORG,0.0,0.0,de,1.0
-CHROMORANGE,CHROMORANGE,ORG,0.0,0.0,de,1.0
-AMOC,AMOC,ORG,0.7,0.0,de,1.0
-Atla…,Atla…,ORG,0.0,0.0,de,1.0
-Stiftung Preußische Schlösser und Gärten,Stiftung Preußische Schlösser und Gärten,ORG,1.0,0.0,de,1.0
-SPSG,SPSG,ORG,1.0,0.0,de,1.0
-Zentrum für Synthetische Mikrobiologie,Zentrum für Synthetische Mikrobiologie,ORG,0.0,0.0,de,1.0
-Bundesverband Solarwirtschaft,Bundesverband Solarwirtschaft,ORG,0.0,0.0,de,1.0
-riecht.2,riecht.2,ORG,1.0,0.0,de,1.0
-News Avoidance,News Avoidance,ORG,0.0,0.0,de,1.0
-Boku Wien,Boku Wien,ORG,0.0,0.0,de,1.0
-EnBW,EnBW,ORG,0.7,0.0,de,1.0
-Energieversorgers EnBW,Energieversorgers EnBW,ORG,0.0,0.0,de,1.0
-Stadtwerke-Tochter EWP,Stadtwerke-Tochter EWP,ORG,0.0,0.0,de,1.0
-Europäischen Investitionsbank,Europäischen Investitionsbank,ORG,0.7,0.0,de,1.0
-Stadtwerke-Tochter Energie und Wasser Potsdam,Stadtwerke-Tochter Energie und Wasser Potsdam,ORG,0.0,0.0,de,1.0
-geschätz…,geschätz…,ORG,0.0,0.0,de,1.0
-Linz,Linz,ORG,0.0,0.0,de,1.0
-Verbands…,Verbands…,ORG,-1.0,0.0,de,1.0
-Stadtwerke Osnabrück,Stadtwerke Osnabrück,ORG,0.0,0.0,de,1.0
+MUNICH,MUNICH,ORG,0.0,0.0,de,1.0
+Senats,Senats,ORG,0.0,0.0,de,1.0
+BMW,BMW,ORG,0.0,0.0,de,1.0
+American Public Power Association,American Public Power Association,ORG,0.0,0.0,de,1.0
 Verband Kommunaler Unternehmen,Verband Kommunaler Unternehmen,ORG,0.0,0.0,de,1.0
 VKU,VKU,ORG,0.0,0.0,de,1.0
 Genehmigungsf…,Genehmigungsf…,ORG,0.0,0.0,de,1.0
-American Public Power Association,American Public Power Association,ORG,0.0,0.0,de,1.0
+Benziner,Benziner,ORG,1.0,0.0,de,1.0
+Landwir…,Landwir…,ORG,0.0,0.0,de,1.0
+Kohleland Polen,Kohleland Polen,ORG,0.0,0.0,de,1.0
 Fortschrit…,Fortschrit…,ORG,0.0,0.0,de,1.0
+Bund für die EEG-Förderung,Bund für die EEG-Förderung,ORG,0.0,0.0,de,1.0
+DAV,DAV,ORG,-1.0,0.0,de,1.0
 Volkswagen ha…,Volkswagen ha…,ORG,0.0,0.0,de,1.0
 Boulevard Österreichs Heizungsgesetz,Boulevard Österreichs Heizungsgesetz,ORG,0.0,0.0,de,1.0
 EU-Klimaziel,EU-Klimaziel,ORG,0.0,0.0,de,1.0
+Deutschen Alpenvereins,Deutschen Alpenvereins,ORG,-1.0,0.0,de,1.0
 Heizungsart,Heizungsart,ORG,0.0,0.0,de,1.0
-BMW,BMW,ORG,0.0,0.0,de,1.0
-Senats,Senats,ORG,0.0,0.0,de,1.0
-sp…,sp…,ORG,0.35,0.0,de,1.0
-DHL-Konzern,DHL-Konzern,ORG,0.0,0.0,de,1.0
-Ausbauziel…,Ausbauziel…,ORG,0.0,0.0,de,1.0
-Tagesscha…,Tagesscha…,ORG,0.0,0.0,de,1.0
-Deutsche Bahn,Deutsche Bahn,ORG,0.0,0.0,de,1.0
-Verkehrsprobleme,Verkehrsprobleme,ORG,0.7,0.0,de,1.0
-verringe…,verringe…,ORG,0.0,0.0,de,1.0
-Skiare…,Skiare…,ORG,0.0,0.0,de,1.0
-Prächtig bunte Blätter,Prächtig bunte Blätter,ORG,0.7,0.0,de,1.0
-BILD,BILD,ORG,-0.15000000000000002,0.0,de,1.0
-TK frisches Gemüse,TK frisches Gemüse,ORG,0.0,0.0,de,1.0
-Storyblocks24.11.2025…,Storyblocks24.11.2025…,ORG,0.0,0.0,de,1.0
-YouTuber,YouTuber,ORG,-1.0,0.0,de,1.0
-Getty Images,Getty Images,ORG,0.0,0.0,de,1.0
-Bonn…,Bonn…,ORG,-0.15000000000000002,0.0,de,1.0
-MissionenBlitz,MissionenBlitz,ORG,0.0,0.0,de,1.0
-Winter Bayern,Winter Bayern,ORG,-0.7,0.0,de,1.0
-Wetterdienst,Wetterdienst,ORG,-0.7,0.0,de,1.0
-Auto“,Auto“,ORG,0.0,0.0,de,1.0
-Österreichischen Skiverbands,Österreichischen Skiverbands,ORG,0.0,0.0,de,1.0
-Österreichische Skiverband,Österreichische Skiverband,ORG,0.0,0.0,de,1.0
-ÖSV,ÖSV,ORG,0.0,0.0,de,1.0
-Ernt…,Ernt…,ORG,0.0,0.0,de,1.0
-anhalt…,anhalt…,ORG,0.0,0.0,de,1.0
-Fußball-Bundesligist Borussia Dortmund,Fußball-Bundesligist Borussia Dortmund,ORG,0.0,0.0,de,1.0
-Dre…,Dre…,ORG,0.7,0.0,de,1.0
-Verkehr beeint…,Verkehr beeint…,ORG,0.0,0.0,de,1.0
-au…,au…,ORG,0.0,0.0,de,1.0
-Deutschen Wetter…,Deutschen Wetter…,ORG,0.0,0.0,de,1.0
-Polize…,Polize…,ORG,0.0,0.0,de,1.0
-Niederschläge…,Niederschläge…,ORG,0.0,0.0,de,1.0
-mitt…,mitt…,ORG,0.0,0.0,de,1.0
-h…,h…,ORG,0.0,0.0,de,1.0
-hä…,hä…,ORG,0.0,0.0,de,1.0
-Le Beaujolais …,Le Beaujolais …,ORG,0.0,0.0,de,1.0
-Katastrophenschutz he…,Katastrophenschutz he…,ORG,-0.7,0.0,de,1.0
-Offenba…,Offenba…,ORG,0.7,0.0,de,1.0
-Katastrophenschutz mi…,Katastrophenschutz mi…,ORG,-0.7,0.0,de,1.0
-Wochenendaussichten,Wochenendaussichten,ORG,0.0,0.0,de,1.0
-Gemäue…,Gemäue…,ORG,0.0,0.0,de,1.0
-Landesamt für Umwelt:,Landesamt für Umwelt:,ORG,-0.7,0.0,de,1.0
-BRIGITTE-Buchtipps,BRIGITTE-Buchtipps,ORG,0.0,0.0,de,1.0
-Eiswein-Lese,Eiswein-Lese,ORG,-1.0,0.0,de,1.0
-Die rheinland-pfälzischen Imkerinnen,Die rheinland-pfälzischen Imkerinnen,ORG,1.0,0.0,de,1.0
-rheinland…,rheinland…,ORG,0.0,0.0,de,1.0
-weiterlesenDer,weiterlesenDer,ORG,0.0,0.0,de,1.0
-Hautschutz…,Hautschutz…,ORG,1.0,0.0,de,1.0
-ver…,ver…,ORG,0.0,0.0,de,1.0
-gestählte Waden,gestählte Waden,ORG,1.0,0.0,de,1.0
-Spor…,Spor…,ORG,0.0,0.0,de,1.0
-Hoch…,Hoch…,ORG,0.0,0.0,de,1.0
-Sturmtief Wolfgang,Sturmtief Wolfgang,ORG,0.0,0.0,de,1.0
-Spaghetti-Eis-Plätzchen,Spaghetti-Eis-Plätzchen,ORG,-0.1333333333333333,0.0,de,1.0
-die Grünen,die Grünen,ORG,0.0,0.0,de,1.0
-Online-Magazin,Online-Magazin,ORG,-0.7,0.0,de,1.0
-En…,En…,ORG,0.0,0.0,de,1.0
-pi…,pi…,ORG,0.0,0.0,de,1.0
-Uni Klagenfurt,Uni Klagenfurt,ORG,0.0,0.0,de,1.0
-University of Roches…,University of Roches…,ORG,0.0,0.0,de,1.0
-Solarmodule,Solarmodule,ORG,1.0,0.0,de,1.0
-Deutschen Presse-…,Deutschen Presse-…,ORG,0.0,0.0,de,1.0
-BaWü,BaWü,ORG,0.0,0.0,de,1.0
-Solarenergi…,Solarenergi…,ORG,0.0,0.0,de,1.0
-EU-Kommission,EU-Kommission,ORG,0.0,0.0,de,1.0
+News Avoidance,News Avoidance,ORG,0.0,0.0,de,1.0
+G…,G…,ORG,0.0,0.0,de,1.0
+LumenHaus,LumenHaus,ORG,0.0,0.0,de,1.0
+Sipa USA,Sipa USA,ORG,0.0,0.0,de,1.0
+ei…,ei…,ORG,1.0,0.0,de,1.0
 bayerisc…,bayerisc…,ORG,0.0,0.0,de,1.0
+Online-Magazin,Online-Magazin,ORG,-0.7,0.0,de,1.0
 Z…,Z…,ORG,-1.0,0.0,de,1.0
-Spo…,Spo…,ORG,0.0,0.0,de,1.0
 Chinas,Chinas,ORG,0.0,0.0,de,1.0
 deutschen Energiemarktes,deutschen Energiemarktes,ORG,0.0,0.0,de,1.0
 Nachse…,Nachse…,ORG,0.7,0.0,de,1.0
@@ -464,467 +138,68 @@ Spektrum.de,Spektrum.de,ORG,0.0,0.0,de,1.0
 Rio Tinto Lithium,Rio Tinto Lithium,ORG,0.35,0.0,de,1.0
 Energy Sharing,Energy Sharing,ORG,0.0,0.0,de,1.0
 ge…,ge…,ORG,0.0,0.0,de,1.0
-Landg…,Landg…,ORG,0.7,0.0,de,1.0
-Wasser Potsdam,Wasser Potsdam,ORG,0.7,0.0,de,1.0
+die Grünen,die Grünen,ORG,0.0,0.0,de,1.0
+Ausbauziel…,Ausbauziel…,ORG,0.0,0.0,de,1.0
+DHL-Konzern,DHL-Konzern,ORG,0.0,0.0,de,1.0
+EU-Kommission,EU-Kommission,ORG,0.0,0.0,de,1.0
+Solarenergi…,Solarenergi…,ORG,0.0,0.0,de,1.0
+BaWü,BaWü,ORG,0.0,0.0,de,1.0
 AMOC-Strömung,AMOC-Strömung,ORG,0.0,0.0,de,1.0
-Brunn…,Brunn…,ORG,0.0,0.0,de,1.0
-Alpenrand lo…,Alpenrand lo…,ORG,0.0,0.0,de,1.0
-Arbeitslose…,Arbeitslose…,ORG,0.0,0.0,de,1.0
-DWD-Bilanz,DWD-Bilanz,ORG,1.0,0.0,de,1.0
-Nord-Stream-Drahtzieher,Nord-Stream-Drahtzieher,ORG,0.0,0.0,de,1.0
-Drogeriemarktkette dm,Drogeriemarktkette dm,ORG,0.0,0.0,de,1.0
-Tesla-Autopilot,Tesla-Autopilot,ORG,-0.7,0.0,de,1.0
-Tesla,Tesla,ORG,0.0,0.0,de,1.0
-Ahoi Piraten!,Ahoi Piraten!,ORG,0.0,0.0,de,1.0
-Deutsche Biathletinnen,Deutsche Biathletinnen,ORG,0.0,0.0,de,1.0
-Olympiasaison,Olympiasaison,ORG,0.0,0.0,de,1.0
-Überfl…,Überfl…,ORG,0.0,0.0,de,1.0
-Vorweihnachtsze…,Vorweihnachtsze…,ORG,0.0,0.0,de,1.0
-IKRK,IKRK,ORG,1.0,0.0,de,1.0
-Kuwait…,Kuwait…,ORG,1.0,0.0,de,1.0
-FSD-Demo,FSD-Demo,ORG,0.0,0.0,de,1.0
-EU-Land,EU-Land,ORG,0.0,0.0,de,1.0
 Energi…,Energi…,ORG,0.0,0.0,de,1.0
 Trump,Trump,ORG,-0.7,0.0,de,1.0
 BP,BP,ORG,0.0,0.0,de,1.0
 Wi…,Wi…,ORG,0.0,0.0,de,1.0
+D…,D…,ORG,0.0,0.0,de,1.0
 Wiens,Wiens,ORG,0.0,0.0,de,1.0
-ZEIT-Redaktion,ZEIT-Redaktion,ORG,1.0,0.0,de,1.0
-w…,w…,ORG,1.0,0.0,de,1.0
-Wettkämp…,Wettkämp…,ORG,0.0,0.0,de,1.0
-los!,los!,ORG,0.7,0.0,de,1.0
-Hit…,Hit…,ORG,0.0,0.0,de,1.0
-Waller Marsch,Waller Marsch,ORG,0.0,0.0,de,1.0
-Sonnens…,Sonnens…,ORG,1.0,0.0,de,1.0
-Leipzig,Leipzig,ORG,-0.7,0.0,de,1.0
-Medicover Frankfurt,Medicover Frankfurt,ORG,-1.0,0.0,de,1.0
-Me…,Me…,ORG,0.0,0.0,de,1.0
-Sachsens Obstbaubetriebe,Sachsens Obstbaubetriebe,ORG,1.0,0.0,de,1.0
-Gala,Gala,ORG,0.0,0.0,de,1.0
-Meteoro…,Meteoro…,ORG,0.0,0.0,de,1.0
-US-Börsen,US-Börsen,ORG,0.0,0.0,de,1.0
-evangelischen Kirche dieses Jahr,evangelischen Kirche dieses Jahr,ORG,-1.0,0.0,de,1.0
-Arizona State University“,Arizona State University“,ORG,0.0,0.0,de,1.0
-Natur pur,Natur pur,ORG,0.0,0.0,de,1.0
-Os…,Os…,ORG,0.0,0.0,de,1.0
-Windgeschwindig…,Windgeschwindig…,ORG,0.0,0.0,de,1.0
-Locarno Filmfestival,Locarno Filmfestival,ORG,2.0,0.0,de,1.0
-fäc…,fäc…,ORG,0.0,0.0,de,1.0
-We…,We…,ORG,0.7,0.0,de,1.0
-Wetterbehörden …,Wetterbehörden …,ORG,0.0,0.0,de,1.0
-Trauma,Trauma,ORG,0.0,0.0,de,1.0
-SID,SID,ORG,0.0,0.0,de,1.0
-Stade Brest,Stade Brest,ORG,0.0,2.0,de,1.0
-Bundesliga,Bundesliga,ORG,0.0,1.0,de,1.0
-Union Berlin,Union Berlin,ORG,0.0,0.0,de,1.0
-IfW,IfW,ORG,-0.85,0.0,de,1.0
-Deutsche We…,Deutsche We…,ORG,-0.7,0.0,de,1.0
-Braunschweiger Zeitung,Braunschweiger Zeitung,ORG,0.0,0.0,de,1.0
-Cli…,Cli…,ORG,0.0,0.0,de,1.0
-k…,k…,ORG,0.0,0.0,de,1.0
-schwarz-rote Regierung,schwarz-rote Regierung,ORG,0.0,0.0,de,1.0
-ARA,ARA,ORG,0.0,0.0,de,1.0
-schill…,schill…,ORG,0.0,0.0,de,1.0
-KI-Frühwarnsystem,KI-Frühwarnsystem,ORG,0.0,0.0,de,1.0
-Äpfe…,Äpfe…,ORG,0.7,0.0,de,1.0
-Deutsche Wetterdi…,Deutsche Wetterdi…,ORG,1.0,0.0,de,1.0
-Freib…,Freib…,ORG,0.0,0.0,de,1.0
-CSU-Chef,CSU-Chef,ORG,0.0,0.0,de,1.0
-Sonn…,Sonn…,ORG,0.0,0.0,de,1.0
-American Alpdream,American Alpdream,ORG,0.0,0.0,de,1.0
-Fed…,Fed…,ORG,0.0,0.0,de,1.0
-Landesamts für Statistik,Landesamts für Statistik,ORG,0.0,0.0,de,1.0
-LSN,LSN,ORG,0.0,0.0,de,1.0
-Union,Union,ORG,1.0,0.0,de,1.0
-CSU…,CSU…,ORG,0.0,0.0,de,1.0
-Deutsche Wetterdienst in Of,Deutsche Wetterdienst in Of,ORG,0.7,0.0,de,1.0
-Deutsche Wetterdienst für Nordrhein-Westfalen,Deutsche Wetterdienst für Nordrhein-Westfalen,ORG,0.0,0.0,de,1.0
-…,…,ORG,0.7,0.0,de,1.0
-Hertta,Hertta,ORG,0.0,0.0,de,1.0
-Saaremaa,Saaremaa,ORG,0.0,0.0,de,1.0
-Peoples Business,Peoples Business,ORG,0.0,0.0,de,1.0
-Gemeind…,Gemeind…,ORG,0.0,0.0,de,1.0
-Verband Deutscher Prädikatsweingüter,Verband Deutscher Prädikatsweingüter,ORG,0.0,0.0,de,1.0
-VDP,VDP,ORG,0.0,0.0,de,1.0
-A…,A…,ORG,0.0,0.0,de,1.0
-Abenteuer Nor…,Abenteuer Nor…,ORG,0.0,0.0,de,1.0
-Deutsc…,Deutsc…,ORG,0.7,0.0,de,1.0
-Ernte Top,Ernte Top,ORG,-0.6666666666666666,0.0,de,1.0
-M&S Schmalberg Kunstblumen,M&S Schmalberg Kunstblumen,ORG,0.0,0.0,de,1.0
-PhänoSphäre,PhänoSphäre,ORG,0.0,0.0,de,1.0
-gelungen.weiterlesen,gelungen.weiterlesen,ORG,0.0,0.0,de,1.0
-WWF,WWF,ORG,-2.0,0.0,de,1.0
-Gen-Z,Gen-Z,ORG,0.0,0.0,de,1.0
-Mörder!,Mörder!,ORG,0.0,0.0,de,1.0
-CDU-Generalsekretär,CDU-Generalsekretär,ORG,0.0,0.0,de,1.0
-Oberösterreichischen Holzindustrie,Oberösterreichischen Holzindustrie,ORG,0.0,0.0,de,1.0
-TV-Ermittle…,TV-Ermittle…,ORG,0.0,0.0,de,1.0
-WW…,WW…,ORG,0.0,0.0,de,1.0
-Ebay,Ebay,ORG,1.7,0.0,de,1.0
-spritzig-süßen Federweißen,spritzig-süßen Federweißen,ORG,0.0,0.0,de,1.0
-Niers,Niers,ORG,0.0,0.0,de,1.0
-RTL,RTL,ORG,0.7,0.0,de,1.0
-Nordrhein-We…,Nordrhein-We…,ORG,0.0,0.0,de,1.0
-Regenschaue…,Regenschaue…,ORG,0.0,0.0,de,1.0
-C…,C…,ORG,0.0,0.0,de,1.0
-Universität des Saarlandes,Universität des Saarlandes,ORG,0.0,0.0,de,1.0
-FX,FX,ORG,0.0,0.0,de,1.0
-nordit…,nordit…,ORG,0.0,0.0,de,1.0
-Ho…,Ho…,ORG,0.0,0.0,de,1.0
-Partei,Partei,ORG,0.0,0.0,de,1.0
-XPLORE Nordamerika,XPLORE Nordamerika,ORG,0.7,0.0,de,1.0
-Revolut,Revolut,ORG,1.0,0.0,de,1.0
-Prognose…,Prognose…,ORG,0.0,0.0,de,1.0
-Fed,Fed,ORG,-0.30000000000000004,0.0,de,1.0
-CDC,CDC,ORG,-0.30000000000000004,0.0,de,1.0
-Staa…,Staa…,ORG,0.0,0.0,de,1.0
-Fussballspiele,Fussballspiele,ORG,-1.0,0.0,de,1.0
-Weltpolitik Amerikas,Weltpolitik Amerikas,ORG,-1.0,0.0,de,1.0
-düst…,düst…,ORG,0.0,0.0,de,1.0
-Prime,Prime,ORG,0.0,0.0,de,1.0
-Disney & Co.,Disney & Co.,ORG,0.0,0.0,de,1.0
-Weinles…,Weinles…,ORG,0.0,0.0,de,1.0
-österreichische …,österreichische …,ORG,0.0,0.0,de,1.0
-Fressfeinde,Fressfeinde,ORG,0.0,0.0,de,1.0
-Frühburgunder,Frühburgunder,ORG,1.0,0.0,de,1.0
-Sekterzeuger…,Sekterzeuger…,ORG,0.0,0.0,de,1.0
-KFV,KFV,ORG,0.0,0.0,de,1.0
-Wallner,Wallner,ORG,0.0,0.0,de,1.0
-ÖVP,ÖVP,ORG,-0.15000000000000002,0.0,de,1.0
-den Grünen,den Grünen,ORG,0.0,0.0,de,1.0
-FPÖ,FPÖ,ORG,0.0,0.0,de,1.0
-EP Subtext,EP Subtext,ORG,0.0,0.0,de,1.0
-ntv,ntv,ORG,2.0,0.0,de,1.0
-Schwarz-Rot,Schwarz-Rot,ORG,0.7,0.0,de,1.0
-sa,sa,ORG,0.0,0.0,de,1.0
-Prognose,Prognose,ORG,0.0,0.0,de,1.0
-LfU,LfU,ORG,0.0,0.0,de,1.0
-AKW Gösgen,AKW Gösgen,ORG,0.0,0.0,de,1.0
-Alpiq,Alpiq,ORG,0.0,0.0,de,1.0
-Gießen,Gießen,ORG,1.0,0.0,de,1.0
-Ragweed,Ragweed,ORG,-0.5,0.0,de,1.0
-Asthma Ragweed,Asthma Ragweed,ORG,-1.0,0.0,de,1.0
-Ambrosia,Ambrosia,ORG,-1.0,0.0,de,1.0
-b…,b…,ORG,0.0,0.0,de,1.0
-LMS Agrarberatung,LMS Agrarberatung,ORG,0.0,0.0,de,1.0
-Nähmaschinen-Betrugsskandal,Nähmaschinen-Betrugsskandal,ORG,0.0,0.0,de,1.0
-Zeit des reinen Skibetriebs,Zeit des reinen Skibetriebs,ORG,1.0,0.0,de,1.0
-IKK Krankenkasse,IKK Krankenkasse,ORG,0.0,0.0,de,1.0
-Krankenkasse IKK Südwest,Krankenkasse IKK Südwest,ORG,0.0,0.0,de,1.0
-Ritte…,Ritte…,ORG,0.0,1.0,de,1.0
-Unternehme…,Unternehme…,ORG,0.0,0.0,de,1.0
-wür…,wür…,ORG,-1.0,0.0,de,1.0
-E-Scootern,E-Scootern,ORG,0.15000000000000002,0.0,de,1.0
-Weinherbst Niederösterreich,Weinherbst Niederösterreich,ORG,0.0,0.0,de,1.0
-Initiative Europas,Initiative Europas,ORG,0.0,0.0,de,1.0
-gepla…,gepla…,ORG,0.0,0.0,de,1.0
-BH Bregenz,BH Bregenz,ORG,1.0,0.0,de,1.0
-Dornbirn,Dornbirn,ORG,1.0,0.0,de,1.0
-Die Obstbaubetriebe,Die Obstbaubetriebe,ORG,1.0,0.0,de,1.0
-Deutschen Wetterdiensts,Deutschen Wetterdiensts,ORG,0.7,0.0,de,1.0
-Bombastus-Werke,Bombastus-Werke,ORG,0.0,0.0,de,1.0
-Umw…,Umw…,ORG,0.0,0.0,de,1.0
-Lorbeerwäl…,Lorbeerwäl…,ORG,0.0,0.0,de,1.0
-Die Linke,Die Linke,ORG,-1.0,0.0,de,1.0
-Hessischen …,Hessischen …,ORG,0.0,0.0,de,1.0
-FC Middlesb…,FC Middlesb…,ORG,0.7,0.0,de,1.0
-Agrar,Agrar,ORG,1.0,0.0,de,1.0
-Zentrum für Medizin-Met…,Zentrum für Medizin-Met…,ORG,0.0,0.0,de,1.0
-Deutschen We…,Deutschen We…,ORG,0.0,0.0,de,1.0
-Armee,Armee,ORG,0.0,0.0,de,1.0
-vorau…,vorau…,ORG,0.7,0.0,de,1.0
-iPad!,iPad!,ORG,0.0,0.0,de,1.0
-Zentrum der georgischen Hauptstadt,Zentrum der georgischen Hauptstadt,ORG,-0.2333333333333333,0.0,de,1.0
-Deutschen Wetterdienst…,Deutschen Wetterdienst…,ORG,0.0,0.0,de,1.0
-Nutr…,Nutr…,ORG,0.0,0.0,de,1.0
-Deutschen Jagdverbandes,Deutschen Jagdverbandes,ORG,0.0,0.0,de,1.0
-DJV,DJV,ORG,0.0,0.0,de,1.0
-Nutria,Nutria,ORG,0.0,0.0,de,1.0
-Pro…,Pro…,ORG,0.0,0.0,de,1.0
-Blaualgen & Co.,Blaualgen & Co.,ORG,0.0,0.0,de,1.0
-Neubrandenburg/Rostock,Neubrandenburg/Rostock,ORG,0.0,0.0,de,1.0
-mv,mv,ORG,-0.7,0.0,de,1.0
-Mecklenburg-V…,Mecklenburg-V…,ORG,0.0,0.0,de,1.0
-VDI,VDI,ORG,0.0,0.0,de,1.0
-Polizei,Polizei,ORG,-0.7,1.0,de,1.0
-Cannabis-Ernte,Cannabis-Ernte,ORG,0.0,0.0,de,1.0
-"Neumünster
-","Neumünster
-",ORG,0.0,0.0,de,1.0
-IT-Geräte,IT-Geräte,ORG,0.0,0.0,de,1.0
-Ahoi Kreuzfahrt-Piraten!,Ahoi Kreuzfahrt-Piraten!,ORG,0.0,0.0,de,1.0
-weg.de,weg.de,ORG,-1.4,0.0,de,1.0
-FC Köln,FC Köln,ORG,-1.0,1.0,de,1.0
-Hamburg,Hamburg,ORG,0.0,0.0,de,1.0
-FKK,FKK,ORG,0.0,0.0,de,1.0
-Klimafolgenforsch…,Klimafolgenforsch…,ORG,0.0,0.0,de,1.0
-Bundesliga-F…,Bundesliga-F…,ORG,0.0,0.0,de,1.0
-Hamburger SV,Hamburger SV,ORG,-0.7,0.0,de,1.0
-junge Welt,junge Welt,ORG,0.0,0.0,de,1.0
-FDP,FDP,ORG,0.0,2.0,de,1.0
-Universi…,Universi…,ORG,0.0,0.0,de,1.0
-Deutsche Bauernverband,Deutsche Bauernverband,ORG,0.0,0.0,de,1.0
-DBV,DBV,ORG,-0.7,0.0,de,1.0
-Qualität flop,Qualität flop,ORG,0.0,0.0,de,1.0
-Getrei…,Getrei…,ORG,0.0,0.0,de,1.0
-italienische Polizei,italienische Polizei,ORG,-0.7,0.0,de,1.0
-Erntebilanz,Erntebilanz,ORG,0.0,0.0,de,1.0
-Deutschland Tour,Deutschland Tour,ORG,0.0,0.0,de,1.0
-Deutschen Bauernverbandes,Deutschen Bauernverbandes,ORG,-0.7,0.0,de,1.0
-Bauernpräsiden…,Bauernpräsiden…,ORG,0.0,0.0,de,1.0
-Doug…,Doug…,ORG,0.0,0.0,de,1.0
-Deutsche Handballbund,Deutsche Handballbund,ORG,0.7,0.0,de,1.0
-A-Kader,A-Kader,ORG,1.0,0.0,de,1.0
-vie…,vie…,ORG,0.0,0.0,de,1.0
-Brandenburgs …,Brandenburgs …,ORG,0.0,0.0,de,1.0
-Jasna,Jasna,ORG,0.0,0.0,de,1.0
-Frei…,Frei…,ORG,0.0,0.0,de,1.0
-MS Mainz,MS Mainz,ORG,0.0,0.0,de,1.0
-zei…,zei…,ORG,0.0,0.0,de,1.0
-RB Leipzig,RB Leipzig,ORG,-1.4,0.0,de,1.0
-Potsdam-Institut,Potsdam-Institut,ORG,0.0,0.0,de,1.0
-Tomatenfans,Tomatenfans,ORG,0.7,0.0,de,1.0
-deutschen Obstbaubetriebe,deutschen Obstbaubetriebe,ORG,1.0,0.0,de,1.0
-Deutschen Raiffeisenverbands,Deutschen Raiffeisenverbands,ORG,-0.7,0.0,de,1.0
-Wasserwirtscha…,Wasserwirtscha…,ORG,0.0,0.0,de,1.0
-MV-Bauern,MV-Bauern,ORG,-2.0,0.0,de,1.0
-Deutschen Raiffeisenverba…,Deutschen Raiffeisenverba…,ORG,-1.0,0.0,de,1.0
-Heideblüte & Lüneburg,Heideblüte & Lüneburg,ORG,0.0,0.0,de,1.0
-Unwetterwarnun…,Unwetterwarnun…,ORG,0.0,0.0,de,1.0
-ne…,ne…,ORG,-1.0,0.0,de,1.0
-Tourismusverband Mecklenburg-Vorpommern,Tourismusverband Mecklenburg-Vorpommern,ORG,0.0,0.0,de,1.0
-TMV,TMV,ORG,0.0,0.0,de,1.0
-e…,e…,ORG,0.0,0.0,de,1.0
-Technik/Hardware,Technik/Hardware,ORG,2.0999999999999996,0.0,de,1.0
-Landesgesundheitsamtes,Landesgesundheitsamtes,ORG,0.0,0.0,de,1.0
-Großen Ricklinger Teich,Großen Ricklinger Teich,ORG,0.0,0.0,de,1.0
-Kyffhäuser ge,Kyffhäuser ge,ORG,0.0,0.0,de,1.0
-Kabin…,Kabin…,ORG,0.0,0.0,de,1.0
-Kabinen,Kabinen,ORG,0.0,0.0,de,1.0
-Bayer Leverkusen,Bayer Leverkusen,ORG,0.0,0.0,de,1.0
-Regionall…,Regionall…,ORG,0.0,0.0,de,1.0
-Ka…,Ka…,ORG,0.0,0.0,de,1.0
-Gefa…,Gefa…,ORG,-0.7,0.0,de,1.0
-Universität Salzburg,Universität Salzburg,ORG,0.7,0.0,de,1.0
-Berliner Ensemble,Berliner Ensemble,ORG,0.0,0.0,de,1.0
-Obstbaubetriebe,Obstbaubetriebe,ORG,0.0,0.0,de,1.0
-Frankfurter Polizei,Frankfurter Polizei,ORG,0.0,0.0,de,1.0
-Einspruch,Einspruch,ORG,0.0,0.0,de,1.0
-Putins Armee,Putins Armee,ORG,-1.4,0.0,de,1.0
-Landwirtschaftsministerium in Paris,Landwirtschaftsministerium in Paris,ORG,0.0,0.0,de,1.0
-engli…,engli…,ORG,0.0,0.0,de,1.0
-Ahoi Pirates!,Ahoi Pirates!,ORG,0.0,0.0,de,1.0
-eBay,eBay,ORG,0.0,0.0,de,1.0
-Bundesamt für Seeschifffahrt und Hydrographie,Bundesamt für Seeschifffahrt und Hydrographie,ORG,0.0,0.0,de,1.0
-BSH,BSH,ORG,0.0,0.0,de,1.0
-LK,LK,ORG,1.0,0.0,de,1.0
-U…,U…,ORG,0.0,0.0,de,1.0
-Dänemark hi,Dänemark hi,ORG,-1.4,0.0,de,1.0
-ARD-Tatort,ARD-Tatort,ORG,0.0,0.0,de,1.0
-TV-Kritik,TV-Kritik,ORG,0.0,0.0,de,1.0
-Fashion-Week,Fashion-Week,ORG,0.0,0.0,de,1.0
-diesjä…,diesjä…,ORG,0.0,0.0,de,1.0
-EU-Mitgliedstaaten,EU-Mitgliedstaaten,ORG,0.5,0.0,de,1.0
-Everest-Drama,Everest-Drama,ORG,0.0,0.0,de,1.0
-KI-Winter,KI-Winter,ORG,1.0,0.0,de,1.0
-Europäische Kommission,Europäische Kommission,ORG,0.0,0.0,de,1.0
-Schwedische Akademie,Schwedische Akademie,ORG,0.0,0.0,de,1.0
-US-Investmentbank,US-Investmentbank,ORG,0.0,0.0,de,1.0
-Lehman Brothers,Lehman Brothers,ORG,0.0,0.0,de,1.0
-Stichtag,Stichtag,ORG,0.85,0.0,de,1.0
-Umweltministerium,Umweltministerium,ORG,1.4,0.0,de,1.0
-Windy.com,Windy.com,ORG,0.0,0.0,de,1.0
-Phoenix,Phoenix,ORG,0.0,0.0,de,1.0
-US-Profiliga,US-Profiliga,ORG,0.7,0.0,de,1.0
-New-York-Times-Bestsellerreihe,New-York-Times-Bestsellerreihe,ORG,0.0,0.0,de,1.0
-ve…,ve…,ORG,0.0,0.0,de,1.0
-Wettermä…,Wettermä…,ORG,0.0,0.0,de,1.0
-fre,fre,ORG,0.0,0.0,de,1.0
-Schutzbauten,Schutzbauten,ORG,-1.4,0.0,de,1.0
-Akku,Akku,ORG,1.4,0.0,de,1.0
-Bodenfrost,Bodenfrost,ORG,0.0,0.0,de,1.0
-Luxusjacht,Luxusjacht,ORG,-0.35,0.0,de,1.0
-Schutzvorric…,Schutzvorric…,ORG,0.0,0.0,de,1.0
-Vorschein,Vorschein,ORG,0.0,0.0,de,1.0
-Sunshine States!,Sunshine States!,ORG,0.0,0.0,de,1.0
-vis…,vis…,ORG,0.0,0.0,de,1.0
-Sommer-Bilanz,Sommer-Bilanz,ORG,1.0,0.0,de,1.0
-No…,No…,ORG,0.7,0.0,de,1.0
-Alpendörf…,Alpendörf…,ORG,-0.7,0.0,de,1.0
-Blaulicht,Blaulicht,ORG,-0.7,0.5,de,1.0
-Polizei Berlin mi…,Polizei Berlin mi…,ORG,2.0,0.0,de,1.0
-Polizei Berlin,Polizei Berlin,ORG,0.30000000000000004,0.0,de,1.0
-Vereinten Nationen,Vereinten Nationen,ORG,-0.5,0.0,de,1.0
-Front Row Platz,Front Row Platz,ORG,0.0,0.0,de,1.0
-Paris Fashion Week,Paris Fashion Week,ORG,0.0,0.0,de,1.0
-Frühling/Sommer,Frühling/Sommer,ORG,0.0,0.0,de,1.0
-reg…,reg…,ORG,0.0,0.0,de,1.0
-deutschen Gewichthebens,deutschen Gewichthebens,ORG,0.0,0.0,de,1.0
-Kiara K…,Kiara K…,ORG,0.0,0.0,de,1.0
-BBV,BBV,ORG,0.0,0.0,de,1.0
-Para-Leichtathletik-Weltmeisterschaften,Para-Leichtathletik-Weltmeisterschaften,ORG,0.0,0.0,de,1.0
-Kri…,Kri…,ORG,0.0,0.0,de,1.0
-Schnellstra…,Schnellstra…,ORG,0.7,0.0,de,1.0
-SVP,SVP,ORG,0.0,0.0,de,1.0
-KP-Führung,KP-Führung,ORG,0.0,0.0,de,1.0
-Ukraine-Liveblog,Ukraine-Liveblog,ORG,0.0,0.0,de,1.0
-++ NATO,++ NATO,ORG,0.0,0.0,de,1.0
-Österreichische Post,Österreichische Post,ORG,1.0,0.0,de,1.0
-Tipps & Tools,Tipps & Tools,ORG,0.0,0.0,de,1.0
-"Cambridge Centre
-for Geopolitics","Cambridge Centre
-for Geopolitics",ORG,0.0,0.0,de,1.0
-Universität Cambridge,Universität Cambridge,ORG,0.0,0.0,de,1.0
-ze…,ze…,ORG,0.0,0.0,de,1.0
-GPS-Geräte,GPS-Geräte,ORG,0.0,0.0,de,1.0
-FC Winterthur,FC Winterthur,ORG,1.0,0.0,de,1.0
-FCW,FCW,ORG,0.0,0.0,de,1.0
-Polytechnische Gesellschaft,Polytechnische Gesellschaft,ORG,0.0,0.0,de,1.0
-Stiftung Polytechnische Gesellschaft,Stiftung Polytechnische Gesellschaft,ORG,0.0,0.0,de,1.0
-UNO,UNO,ORG,0.0,0.0,de,1.0
-Project Motor Racing,Project Motor Racing,ORG,0.85,0.0,de,1.0
-Project Motor,Project Motor,ORG,1.0,0.0,de,1.0
-Sim-Racing-Konkurrenz,Sim-Racing-Konkurrenz,ORG,1.0,0.0,de,1.0
-Sim-Racing-Hits,Sim-Racing-Hits,ORG,0.0,0.0,de,1.0
-Fa…,Fa…,ORG,1.0,0.0,de,1.0
-Achtung!,Achtung!,ORG,0.0,0.0,de,1.0
-ZEIT-Feuilleton,ZEIT-Feuilleton,ORG,0.0,0.0,de,1.0
-Vorfäll…,Vorfäll…,ORG,0.0,0.0,de,1.0
-Bunte Blätter,Bunte Blätter,ORG,0.35,0.0,de,1.0
-EU-Bürger,EU-Bürger,ORG,-1.0,0.5,de,1.0
-deutschen Weinbaubetriebe,deutschen Weinbaubetriebe,ORG,-0.4666666666666666,0.0,de,1.0
-Lufthans…,Lufthans…,ORG,0.0,0.0,de,1.0
-Befürworter,Befürworter,ORG,0.0,0.0,de,1.0
-Winterland …,Winterland …,ORG,0.0,0.0,de,1.0
-Vertragspaket,Vertragspaket,ORG,0.0,0.0,de,1.0
-US-Beamte,US-Beamte,ORG,1.0,0.0,de,1.0
-Börsenvereins des Deutschen Buchhandels,Börsenvereins des Deutschen Buchhandels,ORG,0.0,0.0,de,1.0
-Frankfurter Buchmesse,Frankfurter Buchmesse,ORG,0.0,0.0,de,1.0
-Drittligist SC Verl,Drittligist SC Verl,ORG,0.0,0.0,de,1.0
-FC Nürnberg,FC Nürnberg,ORG,0.0,0.0,de,1.0
-Club!,Club!,ORG,0.0,0.0,de,1.0
-Frühli…,Frühli…,ORG,0.7,0.0,de,1.0
-Naturschutzverband LBV,Naturschutzverband LBV,ORG,0.0,0.0,de,1.0
-Monta…,Monta…,ORG,0.0,0.0,de,1.0
-Hamas,Hamas,ORG,0.7,0.0,de,1.0
-SUVs,SUVs,ORG,0.7,0.0,de,1.0
-AUTO,AUTO,ORG,0.0,0.0,de,1.0
-Nacht…,Nacht…,ORG,0.0,0.0,de,1.0
-Sexualkunde,Sexualkunde,ORG,0.7,0.0,de,1.0
-Sexualkund…,Sexualkund…,ORG,0.0,0.0,de,1.0
-Botan…,Botan…,ORG,0.0,0.0,de,1.0
-Tourismusbran…,Tourismusbran…,ORG,0.0,0.0,de,1.0
-Österreich Werbung,Österreich Werbung,ORG,0.7,0.0,de,1.0
-ÖW,ÖW,ORG,1.4,0.0,de,1.0
-Kommunale Aktionsgemeinschaft zur Bekäm…,Kommunale Aktionsgemeinschaft zur Bekäm…,ORG,-1.0,0.0,de,1.0
-Winterland,Winterland,ORG,0.0,0.0,de,1.0
-teNeues Verlag,teNeues Verlag,ORG,0.0,0.0,de,1.0
-Ab Mittwoch,Ab Mittwoch,ORG,0.0,0.0,de,1.0
-Schocktober!,Schocktober!,ORG,0.0,0.0,de,1.0
-Bo…,Bo…,ORG,0.0,0.0,de,1.0
-Russlands Armee,Russlands Armee,ORG,0.0,0.0,de,1.0
-Rodyn…,Rodyn…,ORG,0.0,0.0,de,1.0
-Deutsche Wetterdienst …,Deutsche Wetterdienst …,ORG,0.0,0.0,de,1.0
-Einschalten,Einschalten,ORG,0.0,0.0,de,1.0
-Das Erste,Das Erste,ORG,0.0,0.0,de,1.0
-"Franken-""Tatort","Franken-""Tatort",ORG,0.0,0.0,de,1.0
-ARD,ARD,ORG,0.0,0.0,de,1.0
-Herbst/Wintersaison,Herbst/Wintersaison,ORG,0.0,0.0,de,1.0
-Kürbisfans,Kürbisfans,ORG,0.175,0.0,de,1.0
-z…,z…,ORG,0.0,0.0,de,1.0
-Tea Research Assoc…,Tea Research Assoc…,ORG,0.0,0.0,de,1.0
-Sauvig…,Sauvig…,ORG,0.0,0.0,de,1.0
-Deutschen Weininstituts,Deutschen Weininstituts,ORG,0.0,0.0,de,1.0
-Austria,Austria,ORG,0.0,0.0,de,1.0
-Altach,Altach,ORG,0.0,0.0,de,1.0
-1:0-Erfolg,1:0-Erfolg,ORG,0.0,0.0,de,1.0
-si…,si…,ORG,0.0,0.0,de,1.0
-Universität Mannheim,Universität Mannheim,ORG,0.0,0.0,de,1.0
-Europ…,Europ…,ORG,0.0,0.0,de,1.0
-un…,un…,ORG,0.7,0.0,de,1.0
-Mecklenburg-Vorpommerns Apfel-Anbauern,Mecklenburg-Vorpommerns Apfel-Anbauern,ORG,-0.7,0.0,de,1.0
-IOC,IOC,ORG,1.0,0.0,de,1.0
-ÖOC,ÖOC,ORG,0.0,0.0,de,1.0
-IO…,IO…,ORG,0.0,0.0,de,1.0
-Aljona Gubanowa,Aljona Gubanowa,ORG,0.0,0.0,de,1.0
-ble…,ble…,ORG,0.0,0.0,de,1.0
-Rei…,Rei…,ORG,0.0,0.0,de,1.0
-Solarium Deutschlands,Solarium Deutschlands,ORG,0.0,0.0,de,1.0
-europäischen Reparatur-Richtlinie,europäischen Reparatur-Richtlinie,ORG,0.0,0.0,de,1.0
-Newcastle United,Newcastle United,ORG,0.0,0.0,de,1.0
-Stadtverwaltun…,Stadtverwaltun…,ORG,-1.0,0.0,de,1.0
-VfL Wolfsburg,VfL Wolfsburg,ORG,-1.0,0.5,de,1.0
-Gewitter + Pyro + Nachspiel-Wahnsinn - Achterbahn-Kölner,Gewitter + Pyro + Nachspiel-Wahnsinn - Achterbahn-Kölner,ORG,0.7,0.0,de,1.0
-FC crasht Wolfsburgs 80-Jahre-Party,FC crasht Wolfsburgs 80-Jahre-Party,ORG,0.0,0.0,de,1.0
-Dramatik pur,Dramatik pur,ORG,0.0,0.0,de,1.0
-Wolfsburg,Wolfsburg,ORG,0.0,0.0,de,1.0
-Köln,Köln,ORG,0.0,0.0,de,1.0
-Landesbund für Vogel- und Naturschutz,Landesbund für Vogel- und Naturschutz,ORG,-0.5666666666666667,0.0,de,1.0
-LBV,LBV,ORG,-0.5666666666666667,0.0,de,1.0
-Naturschutzbundes Deutschland,Naturschutzbundes Deutschland,ORG,-0.10000000000000002,0.0,de,1.0
-Nabu,Nabu,ORG,-0.10000000000000002,0.0,de,1.0
-International Mountain Conference,International Mountain Conference,ORG,0.0,0.0,de,1.0
-IMC,IMC,ORG,0.0,0.0,de,1.0
-Bergwelt,Bergwelt,ORG,0.7,0.0,de,1.0
-Extremwettereign…,Extremwettereign…,ORG,0.7,0.0,de,1.0
-Asthma,Asthma,ORG,0.0,0.0,de,1.0
-ADHS,ADHS,ORG,0.0,0.0,de,1.0
-sag…,sag…,ORG,0.0,0.0,de,1.0
-Meister,Meister,ORG,0.0,0.0,de,1.0
-Borussia Dortmund,Borussia Dortmund,ORG,0.0,0.0,de,1.0
-Nati…,Nati…,ORG,0.0,0.0,de,1.0
-EU-Rechnungshof,EU-Rechnungshof,ORG,-1.0,0.0,de,1.0
-Wein- und Genussreisen,Wein- und Genussreisen,ORG,0.0,0.0,de,1.0
-Ari,Ari,ORG,0.0,0.0,de,1.0
-FC Lugano,FC Lugano,ORG,0.0,0.0,de,1.0
-Universität Wien,Universität Wien,ORG,0.0,0.0,de,1.0
-Instituto de…,Instituto de…,ORG,0.0,0.0,de,1.0
-DLRG Hamburg,DLRG Hamburg,ORG,0.0,0.0,de,1.0
-Kirche,Kirche,ORG,0.0,0.0,de,1.0
-Dab…,Dab…,ORG,0.0,0.0,de,1.0
-all…,all…,ORG,0.0,0.0,de,1.0
-US-Autozölle,US-Autozölle,ORG,0.0,0.0,de,1.0
-Voigt,Voigt,ORG,0.0,0.0,de,1.0
-Neue Anschubbahn,Neue Anschubbahn,ORG,0.0,0.0,de,1.0
-Eintracht,Eintracht,ORG,0.0,0.0,de,1.0
-Bergs…,Bergs…,ORG,0.0,0.0,de,1.0
-Oestrich-Winkel/Heppenheim,Oestrich-Winkel/Heppenheim,ORG,-0.7,0.0,de,1.0
-plurale Gesellschaft,plurale Gesellschaft,ORG,0.0,0.0,de,1.0
-Universität Georgetown,Universität Georgetown,ORG,0.0,0.0,de,1.0
-Apple Podcasts,Apple Podcasts,ORG,0.0,0.0,de,1.0
-Spotify,Spotify,ORG,0.0,0.0,de,1.0
-Deezer,Deezer,ORG,0.0,0.0,de,1.0
-Aura Aspen,Aura Aspen,ORG,-0.7,0.0,de,1.0
-Masse…,Masse…,ORG,0.0,0.0,de,1.0
-TCS,TCS,ORG,0.0,0.0,de,1.0
-Fernost,Fernost,ORG,-0.5,0.5,de,1.0
-Hessen,Hessen,ORG,-0.1333333333333333,0.0,de,1.0
-Deutsche Wetter…,Deutsche Wetter…,ORG,0.0,0.0,de,1.0
-Wettersturz!,Wettersturz!,ORG,0.0,0.0,de,1.0
-FC Thun,FC Thun,ORG,0.0,0.0,de,1.0
-Temperaturen errei…,Temperaturen errei…,ORG,0.0,0.0,de,1.0
-Super-League-Teams,Super-League-Teams,ORG,1.0,0.0,de,1.0
-Deutsche Wetterdie…,Deutsche Wetterdie…,ORG,0.0,0.0,de,1.0
-Mitnetz Strom,Mitnetz Strom,ORG,0.0,0.0,de,1.0
-Un…,Un…,ORG,0.0,0.0,de,1.0
-Internationale Olympische Komitee,Internationale Olympische Komitee,ORG,0.0,0.0,de,1.0
-Fridays for Future,Fridays for Future,ORG,-1.0,0.0,de,1.0
-Fridays for Futur…,Fridays for Futur…,ORG,1.4,0.0,de,1.0
-Asiatisch-Pazifischen Wirtschaftsgemeinschaft,Asiatisch-Pazifischen Wirtschaftsgemeinschaft,ORG,0.0,0.0,de,1.0
-Apec,Apec,ORG,0.0,0.0,de,1.0
-Visa-Gebühren für Fachkräfte +++  ,Visa-Gebühren für Fachkräfte +++  ,ORG,0.0,0.0,de,1.0
-APEC,APEC,ORG,0.0,0.0,de,1.0
-Wolfsburg-Star,Wolfsburg-Star,ORG,0.0,0.0,de,1.0
-VfL Wolfsburg“,VfL Wolfsburg“,ORG,0.0,0.0,de,1.0
-Ajax Amsterdam,Ajax Amsterdam,ORG,0.0,0.0,de,1.0
-Inter Mailan…,Inter Mailan…,ORG,0.0,0.0,de,1.0
-Tempe…,Tempe…,ORG,0.0,0.0,de,1.0
-Deutsche W…,Deutsche W…,ORG,-1.0499999999999998,0.0,de,1.0
-Wochenendes,Wochenendes,ORG,0.0,0.0,de,1.0
-Epic,Epic,ORG,0.0,0.0,de,1.0
-we…,we…,ORG,0.0,0.0,de,1.0
-Deutschen…,Deutschen…,ORG,0.0,0.0,de,1.0
-YB,YB,ORG,0.0,0.0,de,1.0
-FC Aarau,FC Aarau,ORG,0.0,0.0,de,1.0
-Young Boys,Young Boys,ORG,0.0,0.0,de,1.0
-klima­b…,klima­b…,ORG,1.0,0.0,de,1.0
+Brunn…,Brunn…,ORG,0.0,0.0,de,1.0
+Wasser Potsdam,Wasser Potsdam,ORG,0.7,0.0,de,1.0
+Deutschen Presse-…,Deutschen Presse-…,ORG,0.0,0.0,de,1.0
+Landg…,Landg…,ORG,0.7,0.0,de,1.0
+En…,En…,ORG,0.0,0.0,de,1.0
+pi…,pi…,ORG,0.0,0.0,de,1.0
+Uni Klagenfurt,Uni Klagenfurt,ORG,0.0,0.0,de,1.0
+GEO,GEO,ORG,1.0,0.0,de,1.0
+University of Roches…,University of Roches…,ORG,0.0,0.0,de,1.0
+Solarmodule,Solarmodule,ORG,1.0,0.0,de,1.0
+sp…,sp…,ORG,0.35,0.0,de,1.0
+China Ländern …,China Ländern …,ORG,0.0,0.0,de,1.0
+Landesverteidigu…,Landesverteidigu…,ORG,0.0,0.0,de,1.0
+UNICEF-Studie,UNICEF-Studie,ORG,0.0,0.0,de,1.0
+Budget Thuis,Budget Thuis,ORG,0.0,0.0,de,1.0
+Hitzewe…,Hitzewe…,ORG,0.0,0.0,de,1.0
+Deutsche Allianz Klimawandel und Gesundheit,Deutsche Allianz Klimawandel und Gesundheit,ORG,-0.7,0.0,de,1.0
+wic…,wic…,ORG,1.0,0.0,de,1.0
+EU-Land,EU-Land,ORG,0.0,0.0,de,1.0
+AMA-Transparenzdatenbank,AMA-Transparenzdatenbank,ORG,0.0,0.0,de,1.0
+EU-Fördergeldern,EU-Fördergeldern,ORG,0.0,0.0,de,1.0
+MÜNCHEN,MÜNCHEN,ORG,0.0,0.0,de,1.0
+Rheinland-Pfalz  +++  ,Rheinland-Pfalz  +++  ,ORG,0.0,0.0,de,1.0
+Live…,Live…,ORG,0.0,0.0,de,1.0
+Verb…,Verb…,ORG,0.0,0.0,de,1.0
+ZDF-Meteorologe Özden Terli,ZDF-Meteorologe Özden Terli,ORG,0.0,0.0,de,1.0
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.0,0.0,de,1.0
+Klimakrise,Klimakrise,ORG,0.0,0.0,de,1.0
+TU Wien,TU Wien,ORG,0.0,0.0,de,1.0
+Spitzenwert…,Spitzenwert…,ORG,0.0,0.0,de,1.0
+KOMMENTAR,KOMMENTAR,ORG,0.0,0.0,de,1.0
+Humboldt-Universität,Humboldt-Universität,ORG,0.0,0.0,de,1.0
+Universität Tokio,Universität Tokio,ORG,0.0,0.0,de,1.0
+Northvolt,Northvolt,ORG,0.0,0.0,de,1.0
+Australien am Freitag,Australien am Freitag,ORG,0.0,0.0,de,1.0
+Die Grünen,Die Grünen,ORG,1.0,0.0,de,1.0
+Hamburger Energienetzen,Hamburger Energienetzen,ORG,0.0,0.0,de,1.0
+Motor für Wirtschaft,Motor für Wirtschaft,ORG,0.7,0.0,de,1.0
+s…,s…,ORG,0.0,0.0,de,1.0
+Stiftu…,Stiftu…,ORG,0.0,0.0,de,1.0
+Hitze,Hitze,ORG,0.0,0.0,de,1.0
+Leverkusen-Star,Leverkusen-Star,ORG,0.0,0.0,de,1.0
+Uhr/ARD,Uhr/ARD,ORG,0.0,0.0,de,1.0
+Somme…,Somme…,ORG,0.0,0.0,de,1.0
+Magenta TV,Magenta TV,ORG,0.0,0.0,de,1.0
+Seatt…,Seatt…,ORG,0.0,0.0,de,1.0
+Schweizer Parlament,Schweizer Parlament,ORG,0.0,0.0,de,1.0
+Schweizer Parlaments,Schweizer Parlaments,ORG,0.7,0.0,de,1.0
+Nationalrat,Nationalrat,ORG,0.7,0.0,de,1.0
+Rechenzentrum Green Rocks,Rechenzentrum Green Rocks,ORG,0.0,0.0,de,1.0
+Ankara-Programm für die deutsche Wirt…,Ankara-Programm für die deutsche Wirt…,ORG,0.0,0.0,de,1.0
+E…,E…,ORG,0.0,0.0,de,1.0
