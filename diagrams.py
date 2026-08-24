@@ -107,6 +107,7 @@ plot = keywordsDF.plot.pie(y='index', ax=axKeywords, colors=keywordsDF['keywordC
 #plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
 
 # Keywords invalid - TODO: Not Working, as valid is 0.9 always
+# newsDf3 = newsDf[newsDf['valid']<0.5]
 newsDf3 = newsDf
 print(newsDf)
 print(newsDf3)
