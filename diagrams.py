@@ -106,8 +106,11 @@ print(keywordsDF.columns)
 plot = keywordsDF.plot.pie(y='index', ax=axKeywords, colors=keywordsDF['keywordColor'], labels=keywordsDF['keyword'].str.slice(0,20),legend=False,ylabel='')
 #plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
 
-# Keywords invalid
-newsDf3 = newsDf[newsDf['valid']<0.5]
+# Keywords invalid - TODO: Not Working, as valid is 0.9 always
+newsDf3 = newsDf
+print(newsDf)
+print(newsDf3)
+
 keywordsDF = newsDf3.groupby('keyword').count()
 keywordsDF = keywordsDF.dropna()
 keywordsDF = pd.merge(keywordsDF, keywordsColorsDF, how='inner', left_on=['keyword'], right_on=['keyword'])
