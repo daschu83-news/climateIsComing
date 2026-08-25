@@ -1,4 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Spitzenlast Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.7
+'Kernfusion',de,Energiewende,#88ff88,#88ff88,1,0.7
+'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.7
+'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.7
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.2371006373278845
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2359644535828061
 'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2240429691285709
@@ -8,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2076299216828962
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2056923524584981
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2026370035185741
-'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1992131934012654
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.1991319671621288
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1976052504696192
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.1971724281477906
@@ -18,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.1871170669790395
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.1816697345434884
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1801536408294514
+'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.17053133439107557
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.1656700513412904
 'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1561095752145761
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1496845022363086
@@ -27,8 +31,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1327361303432646
 'Geo Engineering Klimawandel',de,Geo_Engineering,#00ffff,#00ffff,1,0.1171402705827298
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,1,0.1171402705827298
-'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.09972247916329634
-'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.7
-'Kernfusion',de,Energiewende,#88ff88,#88ff88,1,0.7
-'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.7
-'Spitzenlast Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.7
+'Bioenergie Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.0997224791632963
