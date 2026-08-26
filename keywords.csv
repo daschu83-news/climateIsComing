@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Spitzenlast Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.7
 'Kernfusion',de,Energiewende,#88ff88,#88ff88,1,0.7
-'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.7
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.7
+'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.6163859242857143
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.2371006373278845
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2359644535828061
 'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2240429691285709
@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.1871170669790395
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.1816697345434884
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1801536408294514
-'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.17071736328909798
+'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.1707173632890979
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1705313343910755
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.1656700513412904
 'Balkonkraftwerk Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1561095752145761
