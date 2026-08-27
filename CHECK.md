@@ -58,11 +58,8 @@ Subscribe to News-API-14 API:
   
 ### RapidAPI: Google-News-25  
 :white_check_mark: Google-News-25 respone fine  
-:no_entry: **Not** subscribed to Google-News-25  
-Subscribe to Google-News-25 API:  
-1. Login and 'Subscribe to Test' at https://rapidapi.com/things4u-api4upro/api/google-news25  
-2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
-   
+:white_check_mark: Google-News-25 status fine  
+:white_check_mark: Google-News-25 results found  
 
 ---
   
