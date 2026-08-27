@@ -814,8 +814,8 @@ if(runInOrganization):
     inqRapidFreeGoogleTranslator(results)
     results.append("\n---\n") 
     inqRapidMultiTraductionTranslate(results)
-    results.append("\n---\n") 
-    inqRapidDeeplTranslator4(results)
+    # results.append("\n---\n") 
+    # inqRapidDeeplTranslator4(results)
     
 #print(results)
 
