@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2359644535828061
 'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2240429691285709
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2214692006221303
-'Wärmewende',de,Waermewende,#ffff00,#ffff00,2,0.2170047519196466
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2076299216828962
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2056923524584981
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2026370035185741
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.1898437218694051
 'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1880970691863188
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.1871170669790395
+'Wärmewende',de,Waermewende,#ffff00,#ffff00,1,0.1844543241316996
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.1814405910684791
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1801536408294514
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.1707173632890979
