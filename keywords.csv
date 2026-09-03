@@ -31,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,1,0.1550193343619651
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1535806397050337
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1496845022363086
-'Batterieproduktion Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1327361303432646
+'Batterieproduktion',de,Energiewende,#88ff88,#88ff88,1,0.8
+'Batteriegroßspeicher',de,Energiewende,#88ff88,#88ff88,1,0.8
 'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1249913092656595
 'Urbane Hitzeinsel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.1174177983327298
