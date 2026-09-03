@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Batterieproduktion',de,Energiewende,#88ff88,#88ff88,1,0.8
 'Batteriegroßspeicher',de,Energiewende,#88ff88,#88ff88,1,0.8
 'Bioenergie',de,Energiewende,#88ff88,#88ff88,1,0.79935006
-'Biogas',de,Energiewende,#88ff88,#88ff88,1,0.77583774
 'Geoengineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.7
+'Biogas',de,Energiewende,#88ff88,#88ff88,1,0.6623123639999999
 'Batteriespeicher',de,Energiewende,#88ff88,#88ff88,2,0.6104460186749999
 'Spitzenlast Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.595450045
 'fossile Brennstoffe',de,Energiewende,#88ff88,#88ff88,2,0.573171269840909
