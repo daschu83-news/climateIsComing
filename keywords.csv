@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geoengineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.7
 'Biogas',de,Energiewende,#88ff88,#88ff88,1,0.6623123639999999
 'Batteriespeicher',de,Energiewende,#88ff88,#88ff88,2,0.6104460186749999
-'Spitzenlast Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.595450045
 'fossile Brennstoffe',de,Energiewende,#88ff88,#88ff88,2,0.573171269840909
 'Kernfusion',de,Energiewende,#88ff88,#88ff88,1,0.54569042875
+'Spitzenlast Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.5404825982499999
 'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.3837907809769642
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.3658824165493748
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.2371006373278845
@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.1871170669790395
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,1,0.1844543241316996
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.1814405910684791
-'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.17648586843046177
+'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1764858684304617
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.1707173632890979
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1705313343910755
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.1656700513412904
